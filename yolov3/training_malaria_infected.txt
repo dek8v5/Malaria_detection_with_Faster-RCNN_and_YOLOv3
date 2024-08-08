@@ -1,0 +1,918 @@
+/storage/hpc/group/kazic-lab/NN/malaria/images/24115f58-a7d6-4022-a95a-86b515a78d3e.png 873,882,958,965,1 282,218,373,321,1 761,229,857,326,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7624ac36-1cf9-42fb-844d-376078309553.png 793,536,942,692,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/795d0331-da56-4d45-a58a-54803408ffd9.png 904,268,1035,412,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/9ebd623d-5534-4dd9-bff8-cdedf322db35.png 1208,997,1336,1116,4 801,187,923,310,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/22cbf509-c9bf-46ec-bfce-f079c6b76c8c.png 866,222,1012,368,3 551,786,752,949,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ca677c3c-083f-4d54-9dec-39f79f6a17d8.png 333,816,465,934,5 1204,864,1322,997,4 584,595,714,705,5 1113,504,1237,652,4 890,101,1038,210,1 278,428,404,569,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0e0bc36f-6fb2-4763-b0a1-b4c67b2d2d2a.jpg 858,955,1012,1125,1 728,921,889,1084,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/b634137b-bc8b-4e88-b0e3-b536ad6e7e18.png 1124,877,1272,997,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4a0a05e1-11ad-4bfc-bfa3-adf3b9bd0b56.png 555,66,662,200,1 780,909,868,1047,1 1328,193,1462,329,4 1364,594,1475,721,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/76b24246-8571-4e7b-8815-b185414a2c51.png 1367,509,1497,640,1 244,83,344,227,6 123,963,236,1136,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/464055b6-3351-4636-a919-8be9840fb850.png 712,57,836,172,2 946,1036,1057,1182,1 104,1069,231,1200,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/a9daf82a-a46d-4296-bd72-2c374ed0a193.png 945,927,1074,1055,1 1432,431,1546,576,1 603,517,767,616,1 156,607,286,795,1 1067,247,1183,385,1 1120,1040,1321,1144,1 313,292,474,390,1 1358,295,1498,426,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ef815e3a-02a6-4cf8-9262-45bc74c50b00.png 603,508,708,610,5 755,1031,918,1176,1 100,421,246,515,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6bfe6a90-8a69-4171-8e7f-42dc9417c6d9.png 317,664,444,775,1 1351,278,1488,402,1 1383,673,1493,787,2 635,118,780,224,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/00d04a90-80e5-4bce-9511-1b64eabb7a47.png 1366,183,1497,316,1 380,632,489,739,3 374,57,490,179,1 60,437,196,516,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/06bbcd42-3ba8-4476-8804-8455f56dd928.jpg 1132,929,1271,1080,4 890,241,1106,379,4 1590,10,1764,166,1 348,908,586,1031,1 635,555,789,750,1 297,964,455,1115,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/22a464ef-c3da-4d56-b37e-e22e95d945e7.png 1454,470,1560,605,1 1101,326,1243,452,3 272,650,393,772,1 53,463,172,593,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a2fc0093-8645-43c7-bdee-ec8ca9484815.png 814,351,936,475,4 1029,575,1170,691,6 1007,322,1126,461,1 920,725,1067,857,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/09bcedaa-e007-4692-a13f-ab02c3f872c4.png 693,656,862,836,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/7bde7de1-889b-4218-b0e1-e2c04f6a7986.png 346,948,486,1081,1 1425,905,1543,1028,4 231,932,350,1038,1 205,727,325,871,1 83,162,227,287,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/820bbfea-3dae-46fc-b61a-3d0ed2ea01c2.png 1089,564,1258,703,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/43bc935a-f655-45e1-a64d-fcb8b78267a6.png 81,114,250,221,6 105,942,248,1047,3 447,492,600,632,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/27fab82c-5bf0-426f-aeb9-47da829b6629.png 324,879,454,1002,4 712,922,832,1055,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/035f6c4b-0897-46ab-9c3b-5f3b0feff043.png 512,65,641,190,4 1211,764,1342,882,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/29648565-fe28-4517-ba72-68df0c82c9c5.png 816,654,928,796,1 72,719,199,844,3 1307,864,1433,980,1 101,890,332,1010,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6695a204-e39c-4418-b904-3f080fdbe7e8.png 74,536,213,678,1 1331,905,1453,1016,5 341,968,484,1108,1 567,836,716,971,1 677,588,807,737,1 244,520,386,657,1 631,190,766,347,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/befe6182-266b-4f8a-ac82-3a4154f05f60.png 35,192,169,296,3 274,581,418,699,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/dc3bdfe9-1565-4cda-9c4e-0979846dab60.png 859,287,971,416,6 1293,666,1431,799,1 1335,1027,1440,1187,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/deab75c9-00bc-488c-8b20-ff4515d85212.jpg 458,373,613,522,1 838,631,1001,787,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f11d05e4-538a-4024-8711-b08a4ce3c540.png 1142,965,1289,1097,3 288,673,411,791,1 535,198,633,309,4 1389,960,1515,1077,4 564,664,674,786,1 898,541,1017,695,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/2e8d6a43-0110-4bf4-8e70-20567e513b81.png 143,837,273,965,4 1102,222,1219,352,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/fd1302e2-3cd2-4a1a-9c13-00f810a9c41b.png 610,789,726,895,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/03359d4d-69cb-4146-8286-ca7399366f97.png 1100,234,1256,366,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/319c9c52-f316-49f3-baad-4444ab19f85b.png 937,491,1019,594,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/bf002a25-6535-4621-be19-56d468be5413.png 1080,1031,1208,1154,1 637,612,778,708,3 365,861,489,966,1 821,374,985,472,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/7f528918-27d4-421f-ab57-0cf9c693e697.png 592,412,720,553,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d67655e6-0a80-4a86-b552-1f5e85788377.png 75,841,170,930,6 42,463,165,571,1 1430,342,1545,444,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/565513be-2c20-4ee3-94f3-093869515d3d.png 917,135,1030,265,1 758,782,891,897,3 1365,900,1482,1012,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/9f38055f-4fe6-47fd-a6dd-c0743db4eccf.png 245,412,357,537,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0906111b-bac7-4541-a6dc-da435c0724a8.png 1316,849,1453,966,5 163,546,296,683,1 777,773,984,907,1 1188,512,1294,603,1 558,829,693,954,1 705,1015,839,1149,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/fde0fd54-49cc-42e1-90c6-6b612cd062d8.png 495,270,590,369,6 962,485,1063,585,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/e9e78ff8-831b-46e9-9785-3eee9acbfcd8.png 521,259,651,411,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/c8fd1336-dd0a-4f97-abbf-be2c18b91e02.png 1188,194,1360,295,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/458cb2e9-5a7f-437c-ac5d-a56f98a3efdf.png 837,300,968,440,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6347dd6a-cfdf-4cb5-bc50-cff5403cfecb.png 672,535,819,655,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/e3ade58d-086c-47fa-9120-76beacb45395.png 727,354,849,505,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/b3058064-d817-47dd-a8c4-cdb1f62374f8.png 1317,576,1457,685,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/9a25f103-1683-47d1-8b07-ac20fe0b3ee9.png 1316,798,1445,955,6 1192,250,1326,368,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/9cf0b006-cb5c-47e7-b076-1dcacf1fbfb1.jpg 917,987,1062,1113,4 397,530,533,656,4 918,141,1035,269,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b701b5c5-b922-4315-b12a-aac4ec65ee8b.png 299,45,409,190,1 1050,383,1213,518,1 897,566,1055,692,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9258fe22-6406-4d00-b6f0-3f9492925405.png 299,143,398,252,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/ca5e6a15-ba65-48ea-8913-2d986e71bf3a.png 1383,807,1517,941,3 1416,987,1538,1126,3 104,66,195,240,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f1de7c7e-e7d3-45ae-a66c-58538bf6cac1.png 857,716,1024,877,2 160,204,290,343,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/2bd15b6e-fe2d-49f3-b394-940d024d1f91.png 985,890,1124,1026,3 82,350,252,480,3 1119,352,1256,495,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/471f75c6-bd5d-4c20-bcc1-258e836f4d69.png 344,888,483,1033,1 980,358,1092,467,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/d82c657e-5678-41da-9a6e-3ad29430b759.png 554,81,684,212,1 159,725,288,833,1 951,179,1084,342,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/9e0e1928-d19a-4100-b093-0b962ac09e05.png 86,364,178,490,1 348,409,468,540,3 1260,691,1418,828,1 992,34,1148,150,1 1326,1022,1450,1172,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/645cd195-af50-409f-8da9-6e7c7f18ea09.png 1041,814,1167,942,1 100,408,239,546,1 168,327,299,477,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/baa87bf8-786c-444c-81e8-9fa0a41d8149.png 1350,611,1469,774,1 968,4,1099,125,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5ff7c0c8-d208-4e7d-958d-ca3c2260ff39.png 282,620,443,780,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/3b4440f7-a69b-4042-a9d0-d6958abcdf4e.png 768,927,864,1020,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/63ed5931-d93e-4f9b-a6f3-152713cb560e.png 278,637,406,777,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/9fe8bdc8-847d-434e-93e5-ae14ff3b45e1.png 1158,725,1288,857,6 988,438,1120,580,2 324,473,451,621,1 136,244,269,397,3 1171,354,1333,457,3 734,154,884,288,1 453,936,573,1106,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/57e1879e-4294-45e7-9c1b-627e8cca0271.png 893,329,1016,461,1 734,199,859,353,3 1196,31,1322,170,1 1129,0,1260,83,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4cccfcf0-cac9-46f0-870c-0eabfdc781ba.png 28,170,155,298,4 1470,418,1558,526,5 1257,1003,1386,1130,3 566,143,676,302,1 682,588,777,674,6 988,468,1144,685,1 575,948,727,1117,1 1397,881,1546,1018,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9b410534-3b70-4a88-9f93-205cf4e55a05.png 890,242,1015,349,1 885,354,1049,493,1 817,982,987,1101,1 113,462,254,641,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f632981c-1330-4078-8a12-691beb2dab02.png 118,131,259,237,1 419,584,542,744,1 1215,640,1369,738,1 270,141,415,250,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/21cc498b-8cb2-42ed-8f80-bfa27b86ef11.png 170,446,302,582,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/bbaa004f-05dc-4cb8-8768-e148085bb0f9.png 1026,705,1170,856,1 107,259,243,391,1 112,867,262,987,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3003252a-2d2e-4687-ad30-9c38d68f1394.png 1204,738,1333,872,1 161,810,281,967,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3f8c5ae1-b9fd-464b-8e91-98143ddd8d29.png 50,146,181,306,3 643,252,770,452,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/e4eea7ea-8989-46a9-9c98-25a178146b28.png 444,485,603,606,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b910c1db-9c66-4207-892f-18a03ecc75bc.jpg 262,434,431,588,1 1651,39,1854,177,6 434,910,625,1047,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cc453255-b583-425e-bc3e-284ccf120944.jpg 824,506,961,613,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7c68c343-a7d3-4d26-b330-a5bb97ab8d9c.png 311,910,468,1040,3 933,305,1094,436,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/04018590-4e66-4cb9-ad2d-83570f1b29ae.png 969,278,1127,428,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/df4fd610-fa16-45ca-b3a3-a25a14e5c4e9.jpg 1245,496,1438,651,1 660,977,820,1110,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f8b6a868-60e9-4569-ae69-638a0c39834d.png 613,648,732,796,1 416,700,561,847,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/03b9d6ad-39ca-4097-a98b-77f02b3c00a7.png 725,20,833,144,1 644,110,794,242,1 897,197,1045,344,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/28c96a4a-4549-4761-99e4-ace4ea7e7ac9.png 1063,733,1179,869,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c6807595-100a-4aa1-a5f6-882a20ca3d32.jpg 896,405,1018,507,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/d0347b49-8f98-4632-a384-1a4f57ac6374.png 418,495,514,586,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e98ea067-82b5-4a0d-87bf-b4bbdc10ddab.png 1428,690,1574,835,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/239f17eb-a2e2-47e9-82e3-fa0d9a70fb9f.png 503,583,682,736,1 1016,836,1196,1029,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/2ac343e4-c889-47c1-8fe2-461b626def76.png 766,523,930,658,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8190ec37-9a5e-419f-89ed-fbfb079370db.png 290,949,414,1085,6 123,577,258,702,1 923,96,1044,212,1 1471,95,1600,207,1 800,979,936,1127,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/2d2e81f3-e329-4765-9ba1-2c95f12dc9f3.png 943,871,1061,974,3 1313,1022,1427,1148,1 873,505,1016,626,6 1037,335,1162,440,1 698,504,823,633,3 181,358,342,493,3 807,729,931,853,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/294bc238-efdb-4f88-b83b-f41fe5750106.jpg 581,830,714,956,4 1055,515,1236,698,1 531,700,710,856,1 680,625,895,750,1 557,578,717,693,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/6388e241-09a2-4fbe-a712-07d8fe714c51.png 532,393,653,558,2 415,403,532,580,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/eb77e4a9-acb0-4d83-8055-2c5fcaa54b45.png 779,788,880,901,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/eba73bff-fbe1-436d-9a5f-0a61331a0ea2.png 1021,355,1104,445,5 16,658,159,818,1 1304,168,1432,314,1 210,623,417,749,1 1183,638,1311,738,1 605,911,729,1020,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/3911fcd2-4e26-4ad9-aaf0-d1c5bf41defc.png 926,420,1035,531,4 359,388,489,530,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/f4a27dfd-4c52-459f-96b5-ee6b452a3395.png 141,210,254,416,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/8eeb378e-90f0-47ea-ac1c-2a201eb8d090.png 330,247,452,371,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/a89cace5-c818-4f23-a432-052b3433b81e.png 77,492,195,635,1 734,321,856,526,1 39,883,267,1008,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0d098413-6911-4535-b70a-3c3effd8cf49.png 141,692,270,862,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f0fe292d-85ae-4c3a-a676-037dde2594e6.png 621,463,750,603,1 1236,320,1374,475,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c52f8cc8-afd7-441c-9f1f-18b6e16d79cf.png 221,298,388,440,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/550cf4ce-b641-44a3-8487-3e16d4049187.png 1463,656,1568,769,1 902,841,997,937,5 158,113,283,241,1 1397,428,1526,564,1 1452,237,1579,383,1 950,385,1063,526,1 314,402,447,528,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e3ea07d7-884a-412e-874a-40fd6b856736.png 301,728,468,862,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/2559636b-f01a-4414-93da-210c3b12d153.png 422,661,558,803,3 576,169,717,324,3 866,130,1014,292,2 96,209,253,381,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/4adcaa26-aa1f-47b5-bdf0-18c9f814f576.png 745,492,882,647,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/38d1b930-dd97-4248-9160-e9389a1a8dd7.png 756,469,910,631,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ab59c9e4-3e50-48b9-874d-060d317410cc.png 899,379,1047,541,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/16ec6e1f-5020-40b3-ba26-51c340d03ee7.png 177,219,320,363,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6d91d1f0-636b-4f5a-a526-7c17fc857190.png 853,511,960,661,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/2ae3e6e6-7482-4ab8-ad73-b530b5c2ee3b.png 271,92,397,223,6 504,308,621,452,6 870,297,997,401,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/2102e5d1-8bec-4ab6-ab35-2705485da1f8.png 927,904,1086,1063,3 231,258,387,399,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/7fdc8be8-7579-4a5c-b369-8a07ee0a8b7d.png 367,294,496,433,3 204,724,329,840,3 1224,933,1349,1069,1 547,1054,656,1133,1 389,889,531,1034,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3d4d7ba7-6c7c-4ddd-b282-31fb5d80edb5.png 1261,840,1377,948,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/4e43fc22-dc08-4cde-b3ce-ce8a4f377c47.png 755,231,863,342,1 1121,1025,1250,1145,1 759,779,874,888,4 490,967,615,1081,1 211,333,342,422,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/25ddc1ca-d368-4fff-b1ad-1dbf1e7c97aa.png 493,781,630,908,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/177f883a-f0f1-4b8e-b598-2ca4bab27381.png 1388,223,1560,350,2 452,190,600,321,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/31435107-c77d-42f8-a619-75cba6a5161b.png 791,659,924,797,5 1066,926,1200,1071,1 927,847,1079,974,1 1006,168,1114,333,3 701,699,798,867,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b834cbf7-ff97-49d9-9561-566c9343735c.png 1021,836,1156,997,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/6bc7b53c-5a98-48ef-a9de-59a476707ea4.png 1103,892,1221,1018,1 13,731,135,882,1 1432,650,1554,808,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7d4c2160-317f-48d1-a60a-788ec300b3e8.png 1116,966,1243,1105,4 270,358,392,475,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/468c261d-f5d8-423f-883e-48af2bbbc5d1.png 491,1035,624,1139,1 597,18,720,157,1 1288,942,1439,1071,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/781d4bea-c6a9-4b36-ae10-ba9e328c87fe.png 1017,859,1172,1005,1 751,427,899,564,1 348,296,505,463,2 807,129,963,279,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/fcc2b245-f47f-447f-8527-275b0005677c.png 718,70,854,209,3 538,964,707,1146,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/45651e76-4bd0-45e5-895b-edec65f51987.png 898,383,997,490,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/32700bc7-7a86-49d3-aded-ccaaed4ddc5c.png 126,151,249,296,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d1924af6-7512-4ccc-9c6b-adbbaa8db41f.png 641,51,775,192,1 32,635,116,875,1 398,776,539,907,1 1352,806,1493,922,1 1316,845,1478,1022,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7beee655-6156-43b8-b185-dbae0eaf7f45.png 629,599,798,780,1 793,263,924,432,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/04628a94-b674-469b-aff6-b476b70df87d.png 451,753,588,899,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/f8b14fc4-dd6b-4ad0-a96d-c62845f48681.png 219,243,355,381,1 594,681,737,887,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/5cac6ddf-c8c6-45de-bce0-a1db64b14fb5.png 1308,425,1410,523,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1380f9b4-bf54-4492-90c3-743c7aa8898b.png 959,422,1113,542,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/ab27173b-6e30-4957-bd68-29194328fd39.png 603,1033,761,1158,1 784,14,901,161,1 61,232,175,355,1 1195,886,1314,1041,1 771,603,936,696,4 655,503,818,644,1 1061,487,1183,598,1 1115,589,1235,705,1 238,961,378,1101,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b9ccf7ca-953f-4832-9575-5e70b2a8c224.png 1397,359,1540,498,1 304,875,425,1018,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f5c395f1-f94c-440d-8221-cc656e52c0b1.png 487,112,609,263,6 583,89,703,227,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b8a4d467-c40c-4ebf-91dd-1c19d0f2a7ae.png 293,88,413,238,1 370,100,482,249,1 980,447,1110,537,1 971,623,1112,734,1 1257,699,1393,881,1 53,860,167,1022,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c84edeb4-311c-4e82-88f9-ae0505b3ad13.png 521,463,659,600,1 209,849,329,995,1 1029,299,1170,432,1 285,654,392,832,1 481,116,659,287,1 533,644,680,832,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b600b38d-225b-46a5-b6f8-b607430f6a10.png 1442,895,1588,1017,3 1089,755,1225,884,1 295,306,432,422,1 3,262,136,384,4 428,113,619,215,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/94b5a9a1-1c88-4400-aca4-3d56f543fc4a.png 887,201,1065,299,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/06401963-8b02-46c5-ab2a-3d70bd01623f.png 1007,773,1130,891,3 96,681,222,814,1 39,524,163,637,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/749df49e-5212-49ea-9e88-7d66f258f1df.png 391,893,525,1032,1 1064,624,1233,736,3 192,240,303,423,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d32022fa-e492-4b31-a776-9435cfdef6d6.png 310,625,436,766,3 597,86,740,211,1 1260,361,1379,508,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/729733ff-a349-4a96-b636-ccabe7d7e167.png 573,122,724,253,1 1471,798,1584,916,1 54,836,172,963,1 1,106,101,201,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/de00f9a5-aa8b-4679-8ec6-85528a942d6f.png 132,141,282,280,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/0ceb4539-5c4c-487d-9826-452a88b5d537.png 1128,612,1250,725,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/e3a4b3e7-9500-4b6c-a402-b6d3f45e714b.png 638,165,796,308,2 1407,256,1554,379,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c244166d-12ca-445f-9ed9-a13d9caa412f.png 898,486,1046,629,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/17c06a23-bb77-49cb-9ffb-fbfc75fcc715.png 1241,704,1377,839,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c890ee00-daa5-4b20-9cd5-930748ecc4e0.png 1350,532,1464,641,1 441,163,570,287,4 252,91,366,228,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ef83ed4c-2724-4d5f-8abe-1a18d25cea35.png 335,109,500,260,1 163,879,335,1004,1 100,740,250,895,1 947,675,1167,853,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/2b128a1a-95ed-408b-b9f8-8795cc814d80.png 345,774,470,892,3 1404,946,1544,1090,1 1135,615,1280,746,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1c87b997-a8e6-48ca-bf40-19b9a7fd6a96.png 39,122,161,222,1 1407,929,1551,1065,3 1187,612,1310,757,2 236,966,342,1142,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/3768c577-4e5e-4d70-8c4d-93d8aacd5baa.png 1278,281,1397,448,1 279,968,410,1117,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/80da32ce-8c22-470e-9f35-558c5f7a5df9.png 765,999,874,1114,1 481,2,597,139,4 582,726,698,862,1 187,646,302,769,1 1439,471,1584,598,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/aa57ec7c-8f35-4990-a790-62efc9df8fe8.jpg 1031,763,1174,892,4 817,12,968,152,4 1756,891,1902,1018,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/edd3862f-04e1-49cf-97dd-ca566d17e71a.png 653,283,776,406,3 1252,136,1362,285,3 1139,415,1269,588,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/abb2f9d6-26fa-4328-983c-959ef6717c05.png 1077,456,1192,584,4 1345,621,1477,762,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3de03fa2-3ad3-43fc-8435-b2a80bdd7550.png 165,498,300,621,4 806,859,927,986,4 446,392,571,521,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/13099edb-35d9-438f-b093-2cf2ebf9d255.png 324,208,446,337,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a6d85204-24b8-4b23-a8b1-c3e8b93f9f22.png 1123,805,1236,907,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f329e01b-fbd3-4fb5-9738-a7ff4c8622b8.png 875,613,993,745,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/fe0c5e48-f65e-488c-9c3c-1ea7c7835c0c.png 862,886,981,994,4 278,154,392,278,4 566,693,697,814,4 502,906,631,1009,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/bbf687b5-c6f9-4821-b2e5-a25df1acba47.png 421,564,556,702,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/d47cd049-d78b-4ba3-a7d4-399be4dd1dde.png 433,417,572,583,2 120,199,257,364,3 590,0,688,124,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/a86e0647-ae41-4b75-9d45-dd58f5ea65f5.png 38,370,147,514,3 708,588,823,735,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/dcf7a19a-ec3d-44ef-8d7c-33b1e91fb9af.png 692,540,844,681,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/fbb1b44c-d75a-4550-a6c0-0eb62b96bfce.png 997,511,1131,657,3 1332,294,1467,481,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/54c88d45-30c3-46f8-8fef-b3e9c07781f2.jpg 673,415,766,504,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/bb3ae957-0f6d-4615-bfe5-24fbca50b459.png 156,822,268,1011,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/51e86aa9-caa0-4297-94e8-34a57d7f7e36.png 104,998,217,1138,1 1183,89,1306,230,3 325,854,432,991,1 225,196,359,312,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0d3c2521-da55-4df5-bf06-56b3bd4fb2fc.png 944,546,1086,687,3 355,524,471,643,6 75,226,203,367,1 1342,753,1463,861,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d1144956-5a0c-4bd2-b67d-8498c82d6a12.png 792,818,918,942,1 471,950,604,1057,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a2d07312-2f97-40d2-8b09-7f2aca7b16fb.png 381,98,544,240,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/f06ba705-5509-479b-8067-127ffb37c5b6.png 988,384,1153,547,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/9cdee92c-6267-4188-a41e-125bc0abb9ae.png 1152,717,1264,825,4 1130,33,1252,160,4 492,484,622,605,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/32a1ea24-b6b7-4253-ad3e-bdf99c2c9b9d.png 1268,367,1445,503,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/7625dfc4-858a-4c8e-907c-8943d665e9a7.png 385,25,530,154,4 715,672,894,809,1 1215,167,1313,319,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/1d4f06e1-9c9b-487e-84cd-e7e50cc754da.png 1357,636,1510,764,2 632,836,790,993,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/7d4d0646-26b5-46fa-ab25-452d986e887b.png 370,854,501,961,3 655,960,768,1083,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/8d5d5c22-2f75-4fe1-9ea3-03a3c7b92ea9.png 903,464,1072,587,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/9f959520-e15e-45c2-bc29-ef3c19154d1c.png 793,229,933,354,1 1378,824,1523,940,1 230,476,350,617,1 491,883,630,1014,1 744,409,860,560,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9ec1dcec-87c2-4aca-8e6b-0db3cd05509c.png 39,727,141,859,2 278,411,401,533,6 1136,693,1279,852,1 239,161,424,279,1 508,858,664,1015,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/446734b7-6bc9-4a66-a3a0-49f6aa90db33.jpg 791,1172,942,1293,4 272,8,446,157,1 1678,209,1838,373,1 1619,379,1778,559,1 803,977,979,1145,4 697,1238,856,1369,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/9bd40bc6-4949-42d3-b38f-d60422932f65.png 833,134,930,272,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c147584d-4c61-412a-bdaf-b02b22c18708.png 421,1009,544,1155,2 1023,736,1167,903,3 603,49,749,218,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/b426ef1d-4a59-4f90-b593-50226af60a60.png 825,424,969,565,1 479,814,608,944,4 1289,809,1419,935,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/43158031-a335-4533-9c20-48bebba90123.png 98,863,232,961,4 165,152,290,269,1 146,616,298,749,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9f4bc3b4-abb0-4bcb-baa8-ec9f25e2b9c6.png 486,232,607,363,4 351,773,487,900,1 909,135,1017,244,1 964,804,1102,949,3 1366,1063,1495,1187,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/b523daee-317b-461d-bdc1-07b4add4d488.png 764,71,889,200,6 963,531,1090,663,1 1065,61,1184,211,1 288,989,441,1105,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/81c3c8f0-d5a9-4dda-afd5-e86f6afd9424.png 681,35,820,191,1 181,1012,280,1107,5 172,347,281,501,1 171,723,315,870,1 554,0,727,146,1 956,627,1102,777,1 321,304,453,419,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3fa1a4e3-c80d-49da-8f7b-a1abb0424f48.png 921,184,1057,308,1 1022,732,1131,849,4 118,667,267,774,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/90246988-0d6d-4bf8-8a76-94107de4121e.png 1376,237,1512,351,1 45,244,171,384,1 45,905,159,1037,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/fe691faa-3bc7-475e-b558-aa8fe7b795bc.png 656,182,741,289,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7094c11a-1e62-4f98-894e-d17d138a88e9.png 760,443,891,589,1 141,302,284,439,1 1416,192,1521,317,1 824,0,950,131,1 828,246,911,332,1 1224,633,1346,774,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/eeb06e39-482b-443d-8cf6-b9b5c763df78.png 674,268,821,400,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/289ef1b7-02d5-42e9-a401-687688181306.png 862,12,985,142,1 357,1045,493,1157,1 84,215,234,353,5 129,527,315,640,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/dacf7e3f-1d8c-42a0-8539-3abe3971c956.png 1094,204,1213,357,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/de2b8835-552c-4f01-98b7-67bc4910062e.png 369,144,488,264,2 282,15,385,151,3 282,650,441,774,1 346,776,447,858,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7c66d2fd-68ee-4628-b860-9d7ad25b2a80.png 1380,228,1498,366,4 266,741,383,862,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a7f1bbb1-6058-4642-bd66-cfb90dce762e.png 845,727,985,867,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cdb086a8-2bf8-4436-b1ef-96cdd801f247.png 294,869,427,994,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/441d7843-b20b-4c10-84e3-e6d32621e880.png 1319,321,1454,469,1 462,855,585,988,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8cca114a-ed05-4b87-95b7-fae02487f08c.png 1019,432,1106,549,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/5f66d20c-fbfe-44ec-a01b-8a09da24807e.png 93,155,224,279,1 482,975,634,1090,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/c4c7ed75-dbdf-4bb6-b6ba-718903cf7264.png 713,412,846,590,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4b3de416-ac61-43eb-80d0-36b81c4baf82.jpg 741,226,893,349,2 1237,942,1390,1087,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a88a48b6-f85c-45c1-b42f-79716c8463f1.png 1267,963,1402,1088,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7942691b-6376-4c75-ae8a-ddf65454dcb2.png 871,585,1019,735,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f8242b97-b8d5-48b5-b808-0b0f75a5de97.png 1310,963,1451,1115,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/58d75854-be99-484e-89f0-4ab208fe07e0.png 254,1050,362,1169,4 1323,911,1458,1039,1 61,214,174,336,4 631,8,755,138,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/b88fe674-fb9a-41d4-b100-cb1c86440d44.png 161,290,281,406,1 543,217,662,345,3 56,613,196,750,4 385,600,508,733,1 718,105,811,299,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/83ec8923-6232-40d7-ba1f-a1b8bf7cb66c.png 628,882,740,972,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/fe1ee954-ba71-47b3-954a-d20ab940cd7b.png 390,644,556,792,5 1087,321,1258,448,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/11b72c7b-5c52-44b7-adb7-21eacc25e441.png 437,911,555,1029,1 471,645,597,779,3 77,230,207,351,3 618,220,723,367,1 462,183,572,340,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/db871d17-28fd-4ceb-b421-e4e4afa0a7a0.png 347,633,489,782,3 1223,462,1383,617,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/8d56197c-21d7-4cb6-92df-80637efd129b.png 1328,665,1496,800,1 1321,783,1469,925,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/672e4ecf-a56b-462e-b83b-76f4efaa6634.png 303,608,447,741,1 152,94,276,225,1 696,999,859,1106,1 1326,920,1428,1045,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/42845335-4ab2-4963-806d-0985d1382a31.png 60,117,182,249,1 24,809,178,962,5 359,113,501,263,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e0ff3476-226f-4125-b182-8e524d5503dd.png 864,821,955,910,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9e1b0217-0926-4fd1-bb9e-a815c05deb59.png 685,902,795,1018,4 787,838,919,969,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6b4c79f5-b194-4586-be9f-e339c5af4188.png 666,586,781,763,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/15625643-d964-4b14-9839-c126384ae35b.jpg 715,422,891,553,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c8af0297-ce1f-40ea-bf44-9256dcdae4e9.png 391,788,509,928,4 145,521,310,649,3 743,154,882,301,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/224c80b8-6c55-48cf-b719-96a47d223dc3.jpg 1255,581,1398,749,1 252,1149,381,1274,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/79d7a014-21ff-40f1-9ac4-a69839390654.png 1212,486,1356,625,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/dec61ae1-5037-4c3a-8952-15371becca7d.png 1141,219,1253,330,2 698,1008,850,1120,1 100,145,258,265,1 805,381,945,521,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a30da226-b452-408a-a556-bfae4d521464.png 1360,327,1484,443,1 249,771,394,877,1 616,943,746,1063,1 304,555,442,716,1 592,555,752,693,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/582e4b8b-404e-4b30-9df3-66f2afb3cdb3.png 751,953,891,1117,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/d5009906-bce1-4353-90b4-f4c79362f4cf.png 1203,435,1355,598,1 141,364,278,468,1 612,100,703,288,5 564,768,680,909,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cbde7f7e-2458-4dda-9db2-3d5ccf950ced.png 609,600,743,761,3 425,510,554,684,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/effd6334-516f-4d48-9f3c-5272a99780fb.png 1165,80,1268,194,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/de6d3020-9347-473b-9146-8909627790f6.png 511,1016,643,1142,1 1338,813,1477,938,1 463,573,587,693,1 237,1019,356,1150,4 658,27,771,148,6 1400,207,1563,330,1 105,249,243,385,3 677,884,811,1021,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5e974892-0ebe-4037-8427-ea8616d6d3b8.png 706,996,829,1131,1 121,481,228,596,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/dfc026a9-079f-4f45-8666-e0ccba5bb437.png 1217,990,1340,1117,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/94d9fa50-d3e4-4eaf-acfc-92e7f2ed9ea5.png 338,329,479,443,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/5dec0204-af81-44ef-a942-8a173669c123.png 814,599,913,689,5 392,69,501,188,4 334,430,455,559,1 380,301,518,457,6 1035,58,1185,167,1 116,484,234,612,1 505,657,693,777,4 770,777,909,995,1 1189,992,1348,1131,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/214f1d15-a081-476e-992d-6c3a77f03d59.png 194,129,310,244,1 1326,523,1431,628,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/580210c2-a8ed-4720-b71c-a77945968abc.png 1346,536,1473,660,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/7029feb3-9ffe-46e4-9883-6a9df84f7b62.png 906,1033,1022,1145,5 1113,7,1251,141,1 1254,648,1374,816,1 315,290,433,397,1 306,453,446,580,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f8ebe0c8-a90d-4a64-9f6a-f9985e38c340.jpg 668,1016,875,1180,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c776eb78-3323-4571-b39f-7ffc73ae63ce.png 771,807,879,931,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/fbcb2ef0-3c97-4d7a-8b96-0147c73f3941.png 1242,383,1362,512,4 332,788,457,919,4 148,620,253,734,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/27388ff2-4000-4c9a-a2e3-addc448a5f92.png 1228,636,1367,765,3 309,227,471,371,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/e871f52c-77a6-4813-80d4-95bd97985f1a.png 557,233,692,388,1 187,131,342,290,2 377,514,479,715,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a6391703-0820-4913-a7cd-e843ff0d84ba.png 313,331,442,453,3 1165,707,1336,815,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/2f6224be-50d0-4e85-94ef-88315df561b6.png 726,1017,842,1156,1 731,32,840,171,1 858,390,972,504,5 958,265,1081,401,1 92,622,265,774,1 476,204,606,337,1 169,145,344,248,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3e03b313-66eb-471f-a97a-7b2bf20dcff5.jpg 1758,592,1914,743,4 0,802,160,954,4 1652,821,1808,954,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a6ba808f-ec60-42a5-ad91-7b32412ab708.png 103,125,224,277,3 830,651,965,775,3 1382,237,1491,395,3 561,930,669,1098,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/e79bd81b-f878-4bee-9be2-d91a722c031e.png 1007,726,1149,857,1 607,245,749,399,1 1322,184,1459,324,1 383,687,496,791,1 485,394,610,510,1 657,861,818,1029,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f1cda808-69a9-4d10-ba0a-6607c98e362d.png 90,376,295,556,1 331,723,535,978,1 909,62,1044,192,1 909,637,1093,761,1 462,355,580,490,4 772,1016,892,1123,1 871,986,990,1106,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ca734448-0d52-42fa-b41c-17b2939e58ae.png 527,617,627,725,5 1071,564,1175,674,5 1388,836,1525,935,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/623982a0-1f73-4246-92cb-28f7c219efaf.jpg 590,391,777,532,1 1141,794,1350,934,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/082e1f81-4f49-44ad-b5bb-9dfc155b2ed8.png 1194,622,1412,729,1 853,1012,973,1177,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ff3b9d4d-373c-48ef-a75a-d23e2c2ade87.png 693,829,799,946,3 394,99,553,213,1 62,207,159,406,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/67abb826-9b70-4459-8764-da76ecf35bfe.png 112,290,272,456,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/e3e9c2de-0a24-4c7e-8a69-3d3093d5bdab.png 724,411,851,574,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/087f2c9c-188d-43cc-a94c-0eb8f10ac092.png 488,243,578,398,1 323,243,460,355,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9106a6bb-1352-411f-ac26-0d6fe48c16a8.png 355,882,467,1033,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5a105b89-c592-4d78-b208-7db6c6572752.png 1172,85,1291,203,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/7521ec48-57b5-48a8-a5d6-8280ad5da19c.png 102,998,248,1116,4 1063,326,1207,455,6 1276,879,1431,984,1 1394,476,1545,608,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f8a8b148-60e4-4a5c-ae19-941b19ec0846.png 1047,550,1169,682,4 945,916,1065,1061,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/3d32a988-449d-4d58-b71f-abbfdc3f2fbc.png 240,885,418,1020,1 1310,167,1506,295,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/89f10192-d3dd-4996-a571-4c851dbdc983.png 419,220,581,366,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9b3fd401-dab0-440f-8498-eb3cc9ffa970.png 119,799,227,913,5 898,367,1015,501,1 1098,278,1218,381,6 445,990,612,1140,1 494,94,631,308,1 1444,177,1568,293,1 1162,387,1286,533,1 507,438,652,590,1 945,255,1080,366,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1519257c-e3e5-4474-908f-8665b3cf1258.png 1096,23,1226,130,1 247,262,374,393,1 241,936,364,1071,1 1394,198,1514,305,1 1194,1076,1317,1195,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/55078c19-bfaf-4988-a779-767e1c6d22f6.jpg 614,450,787,610,1 1658,803,1815,949,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/23e581e7-0fb7-42ff-ba55-a86beefc0619.jpg 1012,473,1176,604,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/445d0db9-e830-4ceb-a845-b23d819e6097.png 1190,799,1329,918,1 191,850,320,966,1 325,852,479,970,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/0b923ab7-ebff-4079-a4bb-af7da89f374e.png 1172,882,1359,1054,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/06a3effb-996c-4767-afd2-6aa3b697cb4e.png 1232,943,1348,1071,1 564,1057,697,1169,1 179,415,340,560,1 36,340,179,471,1 1344,419,1493,564,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/aaade430-4c49-4038-97b7-f8cdd937db57.png 490,244,644,371,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/48e2f0bd-2164-40c3-af43-1f2708359978.png 1358,526,1482,642,3 784,563,945,710,5 1301,453,1444,607,1 1378,789,1478,934,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/87d6343b-70dd-4cdd-939f-d3ac0ca2e700.png 1010,539,1160,646,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/406e05f0-4444-414c-bb40-f4cb08e75ac9.png 942,475,1081,637,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/c8d1b7ec-be9f-4c88-a39b-2c6bf46b2998.jpg 536,587,697,732,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c54fcef1-0c51-4426-9a93-15ec5f2bf58a.png 956,79,1089,194,1 359,127,490,250,1 1213,572,1354,698,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/071901eb-4c3f-404b-a747-3d0b9d0a5158.png 130,62,238,170,5 1029,437,1174,577,3 1102,1019,1229,1163,3 700,809,875,958,1 911,883,1014,1037,1 823,421,971,546,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/aa2dfa24-2dc3-4279-a232-f84780ace190.png 1011,817,1145,948,1 54,965,190,1110,6 1467,314,1591,488,1 1155,488,1273,629,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/84041bf9-dace-4066-9fe0-52170d08f826.png 758,839,879,971,1 96,857,242,980,4 1012,639,1150,766,1 1341,654,1484,755,1 267,541,404,657,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a6e72060-5bde-490c-bdd7-7d9cb0fce7fc.jpg 1219,46,1368,201,1 542,1133,703,1289,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/997eabd9-55bf-4683-83c4-4cee4673a4ef.png 528,1011,664,1138,1 1063,975,1241,1074,1 212,79,331,208,1 295,603,445,744,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e9916e11-9be6-4dec-9df6-2e7d1a8e1735.png 1424,33,1546,167,3 1041,246,1171,375,1 1266,974,1372,1125,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/345cb914-7583-49df-96e3-3cf19c2ba8f1.png 538,335,657,461,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/59f5699f-885f-4004-b783-a60060144e43.png 72,363,206,493,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7d16d1e8-4abf-46fc-81bc-d71bd08ed6f2.jpg 1455,1054,1591,1186,4 1028,953,1171,1090,4 612,867,748,1004,4 1578,124,1723,292,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/597bbff8-6592-41cf-8946-e59b0d1f289a.png 29,1047,149,1170,3 1382,334,1536,453,3 168,282,303,433,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/eeac81a5-9202-4965-b7de-35b12910cdf6.png 286,478,421,614,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/dc6ac71b-2616-431e-bfd5-4c38139e4ddd.png 601,553,727,679,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/24418314-f7a4-49fc-a03e-ec597ca6796e.png 150,880,278,984,3 490,28,619,133,1 798,242,931,374,1 19,147,120,256,1 1446,635,1590,776,1 1154,1036,1253,1158,1 1058,165,1192,281,1 809,471,907,607,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/43072c64-4c08-47cd-ae8a-b74d31f80008.png 894,164,1002,287,2 1467,55,1581,193,1 73,1044,201,1175,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/21c2a8aa-407c-4569-8212-96fcafa84138.png 1322,836,1479,964,1 85,685,257,810,1 531,270,647,431,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/6ab870ba-b24b-49a9-9570-8eafe63aa74e.png 268,1011,384,1142,6 1157,64,1291,198,5 168,343,277,479,1 852,440,1001,550,1 509,689,649,839,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8bd71314-e38a-4670-bb25-5cd6c9acb595.png 589,444,715,572,4 567,265,695,383,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/631340cc-cedf-4bca-a3d8-a0731a5482b4.png 175,770,297,899,4 945,50,1076,156,4 161,985,267,1118,6 237,469,361,608,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/bbedfcbe-9528-4ba9-9d86-4ebba7589ac5.png 594,519,718,638,1 660,463,794,595,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/7d65d296-0f7b-41cc-9073-a547e24326c8.png 209,981,304,1076,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/8db76867-671a-4488-a7b6-991e4dd2e05f.jpg 807,223,916,342,4 1522,962,1681,1108,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/3b601a1b-26d8-4873-afcf-fdd1b1e0010c.png 391,664,548,805,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/20d4f65e-6c63-433a-935c-d568d577967b.png 300,574,418,692,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/74bf1267-d98b-4532-a81d-9d8df63e0f75.jpg 1531,773,1678,920,4 1179,527,1320,686,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/d1394e1a-dedd-4458-a024-044dae2cd69d.jpg 752,127,894,291,4 1708,833,1879,983,4 367,404,526,549,4 50,549,202,694,4 592,1134,745,1284,4 1363,556,1519,712,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a6f8a029-44ee-4fe3-b807-38d137347729.png 1292,569,1410,680,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/03c8da48-04b9-4520-b674-44a0ecd35688.png 765,549,861,644,4 258,431,365,509,3 197,879,343,1006,3 548,471,644,589,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e1937e32-85d5-4cd8-bb4a-b9cf8ee7ceeb.png 135,497,262,627,1 249,644,398,794,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/26799d2b-a289-4eff-9218-0aad77e05e41.png 409,262,569,418,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/e13f2327-fbf4-4d84-a8c1-09cb1e449c8c.png 590,993,723,1126,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b618e87e-6059-496f-b0f6-e158f676a1fb.png 1356,180,1499,331,6 521,790,663,918,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/34df8890-272d-423a-ae78-ff8d068d3306.png 1340,1016,1468,1129,3 1206,180,1341,311,1 149,342,285,470,1 856,724,979,829,2 746,646,839,748,1 469,829,602,987,1 449,220,569,331,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/aa4a023b-55bd-4259-b15d-7086a9b491e0.png 601,652,756,830,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/84ee2ea3-9edd-4672-a1b3-f09c607d833a.png 362,180,484,299,4 1312,614,1447,743,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/84c88143-940d-4b62-bbd2-7acc4cadcb6b.png 404,675,534,802,3 1037,787,1169,957,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/bd4da4f8-8996-47e0-a4e5-a3da5717441e.jpg 1061,324,1184,473,4 1731,952,1862,1075,4 109,470,270,611,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b6fe541f-3be2-41a8-8124-757fc1ad875e.jpg 549,502,702,631,4 1176,138,1336,293,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/6144887d-a1c1-46db-91a1-f7ff5bf8c8a5.png 884,202,1003,332,1 1457,245,1575,356,1 1240,942,1359,1089,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7ef90770-6aeb-45eb-9744-49c5247dde30.png 427,403,562,522,1 670,477,807,609,1 1307,315,1497,466,1 1162,383,1348,548,1 1082,652,1219,798,1 524,34,659,156,1 131,287,312,524,1 113,999,254,1110,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6e7ed596-1b76-4998-8147-a846d53d91c5.png 998,550,1152,699,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c9ad92d4-b408-4506-916e-def47b2e6ed0.png 638,215,762,352,1 210,952,345,1072,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f274b784-b995-4a7e-a2c2-6cc31c24c4b4.png 1312,328,1433,431,1 61,27,154,113,5 992,595,1133,689,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/b47c1011-0cc6-400d-9300-1c72f873a6e5.jpg 608,637,760,787,4 827,728,990,877,4 794,945,960,1080,4 825,316,969,493,4 1191,571,1364,706,4 160,441,295,582,4 269,490,387,664,4 1570,449,1717,590,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/6040cf0d-9dd6-4798-9406-1afbbcd24d4c.jpg 531,190,663,321,4 148,773,283,911,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/8a7deb24-d2b4-4acf-86c4-3aadd39157fa.png 784,274,948,450,1 216,814,354,946,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/fc15659f-6264-4dd5-ab17-43d89fb297b9.png 1165,245,1297,383,3 1338,249,1478,381,1 285,348,453,505,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/787abd97-dd37-4212-8b43-61696eb3abc0.png 227,520,373,646,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/29d4b75f-d400-4702-a9ac-e5a4ed1a1db1.png 249,1023,360,1150,1 1381,683,1509,817,6 222,290,330,434,1 260,579,372,747,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/d615b706-8f50-4d96-8de5-6858897528d0.png 1344,1062,1460,1196,3 647,726,784,856,1 925,589,1065,722,1 1228,770,1354,916,1 67,881,215,1011,6 824,767,955,899,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a63fa2c7-3ec8-4bb7-bde6-a39e09d2f806.png 876,432,1032,563,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/67acd5bc-4658-4c6e-a9b9-cd8ea3a03418.png 618,311,735,422,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f7cced00-9b41-45ec-9fdf-fb9e1a74da90.png 1249,673,1369,811,4 1086,911,1208,1033,4 583,64,706,192,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/c03d9b87-e19b-402b-ad86-b30d6e8aeb59.png 319,580,426,687,1 1052,1005,1185,1114,1 1087,282,1247,438,1 381,584,515,712,4 118,800,248,937,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1d9d4dac-66f9-4c87-b714-d723d5b15fa9.png 1168,872,1299,1023,2 111,757,272,937,3 1098,635,1254,779,2 673,243,875,369,3 1263,1,1421,135,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/434523fd-d4d9-4961-a7c2-d71d6ae68e13.png 1102,846,1221,963,1 732,310,865,431,4 13,682,168,845,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/6fd30823-3b77-40c9-ba5d-e1eda9660674.png 871,642,1021,788,2 1044,275,1188,396,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/2dbf6f69-e020-4948-9e49-4b33edb7cebd.png 1469,100,1587,228,3 334,6,452,131,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/0ed416f9-7c20-4829-9016-559e4009568e.png 1204,425,1330,524,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/1a27ebe9-93a1-4898-af69-f276057d4012.png 1264,0,1369,133,3 298,909,427,1034,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/d3ed519e-2152-4e30-838d-a3ea23be512f.png 837,504,1018,635,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/b2f05937-b965-4c4b-b86e-f50e95d9d691.png 553,701,690,836,3 830,901,986,1051,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/3f390b82-8859-4c27-bbfe-d1b242477f63.png 271,888,399,1013,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/005e60b6-77b8-458c-b57c-bfe0c7e7df78.png 231,763,367,864,4 1078,424,1224,539,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a3c0a876-be12-4ede-8aed-18b32a64401b.png 1211,327,1327,459,1 179,737,310,853,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/77e76e62-2c71-4b52-9b21-0d1bcde9f9bf.png 519,340,667,454,1 667,966,798,1072,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/9af1ee02-87fd-42bc-963e-fa9ac3eb45bb.png 433,732,544,855,5 629,286,766,421,1 1338,436,1464,566,1 383,500,508,636,1 443,63,583,189,3 814,515,975,636,6 512,161,661,297,3 619,695,737,817,1 723,374,955,531,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/e6a7743e-4040-40fa-b097-ca6874c469b7.jpg 526,444,684,593,4 719,295,889,421,4 1390,788,1573,929,4 917,210,1077,364,4 1535,598,1774,707,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/98175327-da9e-4e0c-8912-ee68490a4672.png 1029,278,1152,408,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/46a03374-64c7-49ac-81c9-c3d62542bbf3.png 692,22,824,137,1 260,995,421,1132,1 752,89,855,178,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/06cd484f-e864-4fee-8819-688b45eed98e.png 822,248,932,407,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0f2a6cda-afec-437b-8803-8d3176b072c1.png 390,471,499,644,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/0da07970-3146-479c-8a07-f61ed32814a9.png 1467,347,1584,482,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/3e36698f-8c09-4c8b-8948-737310bf97e5.png 1249,320,1382,437,1 216,214,345,349,3 532,98,666,221,3 390,521,553,640,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9acf303a-fcba-4e52-be3e-8d061aa5e72a.png 964,765,1087,905,3 525,804,637,937,1 1376,917,1511,1031,1 108,579,222,739,3 1301,998,1419,1131,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a4bd99a0-226a-4044-914b-8073d5890734.jpg 339,1117,514,1278,6 458,128,625,287,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e3c1442a-717f-41dd-bf97-81e1233ac9fa.png 614,988,712,1084,4 309,834,437,984,1 430,614,608,764,1 717,500,823,644,1 1431,265,1574,458,1 1191,522,1271,646,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/985627c9-7b85-40de-a106-eb9cc47b47cb.png 430,790,533,944,1 99,348,245,443,2 54,222,163,376,1 508,161,643,293,1 843,985,1011,1136,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/bb337c84-f727-42a5-9c3d-934323a16c6a.png 515,897,659,1031,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/7db1373d-5bbf-47e6-ab40-30cba7678745.png 220,866,366,1010,6 1092,137,1199,215,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/3061aac0-cda3-47d1-8c48-6293e9ffdf36.png 875,610,993,748,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/ae17a099-18b5-4a42-a901-850ea056423e.png 594,87,708,218,4 825,734,953,862,4 498,1033,625,1138,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/96596a68-8c95-43f3-b74e-e9506c235144.png 794,278,907,410,4 656,943,775,1054,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/d9255d7f-1282-442d-b152-73d7388526f9.jpg 1610,965,1806,1108,1 596,85,752,263,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cbb58718-6319-48db-b84b-78ac9b12ff89.png 1015,998,1141,1141,1 1121,596,1215,721,1 1142,983,1252,1133,3 681,820,784,995,1 516,275,622,456,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4c13e22e-dfd1-4fa1-b373-be9d0c272c0f.png 444,516,611,639,1 571,140,718,290,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b78b88f0-154a-4b54-8aaf-85d37a42a0f9.png 932,402,1075,543,2 224,532,352,678,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/58065a0c-d4c5-40fd-bcdc-037f61788482.png 1089,241,1219,391,1 578,780,718,926,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/521a26aa-0a31-4c07-b4d0-fac08eb08344.png 322,595,522,807,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/d79b4e90-c45d-4f5d-a498-49c3e323c291.png 76,655,176,757,5 620,492,742,592,1 332,1059,479,1162,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c53fd511-31bd-4901-baac-3b44891f6744.png 254,972,380,1102,3 1012,555,1128,677,4 1405,401,1512,562,1 311,66,423,190,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/3090a362-1f3d-49e9-a76e-ce76ff9c2276.png 473,243,584,366,1 1037,235,1168,377,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/697bdbc0-6e31-4e48-ac74-ba4ab5760d32.png 1156,785,1342,923,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/96287315-87a1-4045-9e16-119e045bf12a.jpg 502,568,638,678,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a85cd1ae-0c94-4387-8305-84ab8d96d137.png 1214,779,1367,922,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c7ec51d5-9f45-4209-8357-39e9a984a733.png 50,881,163,1001,6 1355,551,1551,744,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/801296d9-3403-426f-859e-5c532858e025.png 777,530,924,674,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/99a21c5c-f5a7-4c07-9cb6-5dda2d388f48.png 348,172,495,284,1 107,342,278,450,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5a043d69-f435-46d4-8691-395c1602a76a.png 1321,854,1465,984,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/8cc6fe77-5f2f-4670-b4ac-1b49550241a8.png 1279,1081,1379,1174,5 120,456,261,603,1 218,151,334,296,1 424,252,571,376,1 965,179,1144,254,1 1394,553,1543,666,1 1088,673,1271,805,1 1052,927,1169,1083,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4c7d2382-a962-4237-a053-955eea3decd8.png 610,643,723,762,1 937,940,1033,1082,5 743,741,877,874,1 633,1017,750,1148,1 212,547,342,665,1 1235,299,1329,440,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/002f20ad-2ace-499c-9335-c9080bc3e6b5.png 967,354,1131,530,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/b4c52960-bbee-439e-83dc-f89ddaade71b.png 1245,491,1379,615,3 1066,186,1195,318,3 757,70,925,181,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/4736f545-1f1f-4d77-9241-d69cbf4dae35.png 1299,206,1374,288,5 1129,644,1221,749,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/baab0701-3fd4-4940-8b90-b9c42d95888f.jpg 1209,434,1399,613,1 427,380,607,548,1 1647,570,1811,719,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/83ec1cb9-1714-4bf1-81f6-115fde84564d.png 761,537,910,702,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/2165fe38-b474-467d-be11-d1d728085efd.png 1188,411,1334,515,4 608,551,718,695,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b809b407-7b69-4334-873d-d6c49135f04a.png 652,716,778,856,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cfe6086f-eb0b-4cb0-a430-8cd7de6556e2.png 515,338,662,487,1 1237,17,1371,133,1 1415,945,1537,1079,1 908,246,1050,373,2 641,592,762,735,1 925,107,1058,270,1 616,394,755,605,1 45,968,163,1072,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a3548f89-1cb5-4e67-b460-482df95b10ee.jpg 695,522,897,609,4 1137,580,1291,713,4 178,502,334,631,4 742,215,924,357,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/5077f87d-a19f-494c-b911-14ccb03bd230.png 207,75,329,202,2 1245,960,1364,1106,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/45902b63-be9a-49ae-9ede-3a8015671bc4.png 297,86,428,209,3 997,537,1128,676,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/29dc8176-dfe1-40e0-8247-2dc3c530057e.png 595,787,750,974,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/b687c30d-cf15-445c-b3f6-5aca86584708.png 1303,703,1452,843,3 191,901,315,1017,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/fac4b0e2-6b52-4c0e-b762-4fa65d552856.png 1316,894,1501,1028,3 108,563,252,684,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/a72cd558-b7ac-4bf2-a344-2ce6c73a354e.png 773,289,852,391,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/913099c5-8085-4908-bf4b-1f098bbfcf66.png 907,127,1042,243,4 494,1036,666,1159,1 1299,911,1450,1027,1 644,548,775,673,1 152,963,288,1108,1 365,1018,483,1158,1 1271,687,1435,843,1 698,41,866,195,4 1192,168,1303,317,1 143,288,274,424,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/861c3e06-aada-47a0-99ae-94fbc2772cc0.png 1334,280,1462,376,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b8410821-a42b-47d0-8bcf-c2fc82e4e2d5.png 1033,373,1182,505,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/370277f8-436b-4103-8210-b4feb5ab95ea.png 512,866,649,997,1 917,556,1019,667,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/acb16781-11ad-4327-874a-5c9c35dcb085.png 30,371,164,485,1 307,179,484,286,6 729,1016,893,1135,1 1223,854,1361,952,4 584,290,706,420,1 250,25,382,170,1 630,1084,755,1200,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/8be185e7-2a1a-441c-a5c7-b50a9eb926cb.png 128,244,264,360,1 1151,401,1290,528,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/604478c7-1259-441a-8ad0-7059e191c9e4.jpg 632,1065,778,1217,4 1615,195,1807,310,4 779,549,946,691,4 287,770,477,912,4 1617,68,1805,180,4 296,970,440,1090,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/90a82250-1f68-48c9-9af9-15f18bf8c974.png 546,605,673,733,2 484,29,616,160,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/065af549-320a-4862-b92a-8ef750d7b5fb.png 1223,224,1389,346,1 258,390,424,538,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/dfac6c92-8f0f-429a-8caf-9b7732bf78da.png 1149,145,1274,270,4 348,229,475,349,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/f5419bc0-4415-41b6-b832-5326cfcc534b.png 926,497,1052,632,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b9d65ef3-1adc-4479-abee-2e422f5a613a.png 79,799,194,953,1 1475,526,1595,690,3 1322,173,1433,340,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/318de807-7232-4ab1-843e-a901547c0125.png 446,614,570,741,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/6795acae-e84d-4e97-b9a1-b4f4f0a72cfd.png 171,540,296,669,4 658,842,773,952,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/6afd8203-d61a-4e9b-a4cf-dcb53a16b57c.png 966,543,1079,669,6 497,32,602,219,1 221,987,379,1178,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/fcdf6632-c03f-49a8-9fb3-42e87c99b9d0.png 36,581,153,708,4 1006,210,1119,348,1 908,144,1029,293,1 209,359,342,476,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/0d2aba33-6920-4001-bd54-59fe0bf9f50e.png 810,156,939,270,3 677,723,828,877,2 542,230,672,403,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/2cc3c4ad-670f-41b6-8910-0704cbc192ef.png 1187,199,1312,326,4 1061,807,1160,950,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/8b89b3fc-95ef-4f2e-b94b-0291dbffe0f4.png 460,99,641,197,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/83d4e1fe-da84-4175-a9e2-8efc18782dcf.png 41,65,191,186,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/2a91387a-d30f-418d-ac3a-f7cfa6836261.png 405,274,527,397,4 502,519,635,649,1 1362,933,1477,1049,4 260,681,379,805,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/0f735cca-051c-4048-a1fa-cb36f389e12f.png 1024,229,1119,348,5 857,619,1011,750,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/98c25ffe-c329-420a-bc22-b082f565eac9.png 1141,883,1294,1060,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/452482bc-24a3-413e-ba03-fad4c9d61f3c.png 1158,150,1271,271,4 255,394,363,528,4 1234,550,1362,681,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/b7a0d235-2217-43b4-aeff-cde4ccaf6789.png 736,522,878,711,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/a4d7a7e1-5ae1-486d-b6ee-c9af1476ccad.png 1079,157,1193,271,1 78,532,194,670,1 1390,193,1530,301,1 716,1004,850,1147,1 992,612,1108,675,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5836500a-221e-40ca-a8be-caaa37f7d300.png 498,172,594,272,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a2de1248-7bc0-44dc-b508-70a357eedd68.png 261,241,390,364,2 40,647,154,760,1 1324,131,1493,263,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c3042130-a6e2-458f-9fde-bb012f68f5f2.png 609,323,738,505,2 139,561,262,725,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/6231d81d-9e84-4a5a-8cb8-47c6a37a0176.png 1115,923,1232,1042,4 204,461,292,548,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a4fbb9f2-9b75-4fdc-877d-2feaafac25b3.png 535,928,663,1064,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/affa429c-0315-4c18-a002-13bb3ecab259.png 701,716,850,880,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/09ecf7be-28e2-4531-b9e2-07e01c44097d.png 1244,571,1358,682,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/2c4d72f1-71a6-4bf1-b5d9-8023c7bbec74.png 228,739,377,913,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/25865b39-56fb-409a-8800-3d368dd264ed.jpg 813,471,1002,619,1 880,88,1029,256,1 935,243,1120,420,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b34e65f6-c32e-42f1-a437-4a037c75a231.png 778,7,897,135,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/cc275c45-7511-4070-84af-10b8ffebda53.png 299,648,480,810,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/4a717a39-80f8-4b75-a25e-c46d65d7dcd5.png 1136,923,1270,1047,1 294,165,419,297,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b1d312cf-1f52-4955-bf42-58d3664c254a.jpg 735,183,898,356,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/ac4d6507-d710-497b-ad7c-e0dd75c1d06d.png 816,576,994,705,1 475,694,614,864,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3ff98212-7c2a-46cd-afb7-34a2479bed07.png 245,585,346,680,1 583,919,721,1023,3 1172,517,1319,651,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7c870293-2665-4a6b-a4fa-336959051dfc.png 846,475,988,604,1 1227,223,1360,318,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/4935818a-7e7a-4f44-a3b6-b361d1abfe16.png 717,933,835,1059,1 434,100,561,286,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f48bf825-13c4-42fc-8dd8-10cc4ae6b202.png 1184,209,1317,342,3 369,70,499,168,4 176,454,313,582,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cea1cd9b-9b03-407b-ad8d-348155567dab.jpg 1102,197,1246,373,1 637,522,824,709,1 684,477,889,615,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/191f87a4-6f2d-49e7-bba0-08e3aa78ddaf.png 374,58,521,194,3 637,1021,752,1123,3 1189,347,1338,467,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/3f26fbbc-deb1-494f-b71c-c7cb3d4819fb.png 918,198,1080,336,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f4c00b8c-d675-4255-8277-ca65bd757f51.png 936,46,1069,159,1 428,402,550,533,1 107,903,265,1017,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/f28e6d66-af71-40c1-b30c-da71d7230a3f.png 213,120,346,248,6 37,836,201,955,2 1019,0,1160,116,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/19370afd-f897-47d8-bfae-c0d257bbf795.png 1282,181,1416,310,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/95d5e689-c1d1-4ae8-a659-cc20c62a99f0.png 297,885,449,1020,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/1315c2a4-0794-4dfa-a709-e2451723d2b6.png 1255,138,1404,267,2 975,78,1145,231,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/fe00fa09-d3c8-485b-9d0f-3cce556c9edd.png 1176,550,1312,690,3 1179,787,1287,925,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/c649e1cb-4029-4433-b231-d67d68f7391a.png 795,927,940,1064,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/67f5ca94-d84e-490e-bf0d-4ffba7bdbe30.png 1025,502,1179,619,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/408745a6-79fb-4804-9c24-e2d6673f8f2e.jpg 819,381,981,517,4 366,210,524,358,4 1033,784,1199,935,4 526,258,713,371,4 700,785,906,899,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/21116b9d-e6be-483f-8394-e74622b2e182.jpg 1332,100,1515,256,1 688,377,879,538,1 766,680,999,869,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ed0bee2f-05e0-4392-8357-19750cec577c.png 288,811,406,914,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/04de3a31-fc09-40be-9c2c-9830c57f809d.png 1340,992,1482,1116,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/a302a6fa-f635-4ade-b72b-b6f3c2a34ec9.png 807,718,933,842,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/3dcd4f1b-ce43-4a34-b1ed-076bb42963b1.png 994,894,1135,1021,1 118,278,255,418,1 596,491,728,613,1 541,103,671,243,1 1425,826,1529,1069,1 381,978,477,1069,5 351,894,468,977,5 1110,103,1221,250,1 761,235,963,340,1 8,130,143,252,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3892b776-f49a-4368-b0fa-7e855e76ccec.png 501,773,633,913,3 1401,385,1577,514,1 43,925,154,1108,1 367,666,501,793,1 1011,1058,1136,1200,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/738b7be5-59b5-4d8c-8769-cbf2385b9fc7.jpg 618,443,800,614,1 678,239,839,400,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b1145408-feae-4637-b4cf-3e70b99cc62d.png 105,123,215,230,5 554,330,685,445,1 1320,332,1443,450,1 374,884,519,1008,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8e72e20e-e714-4db6-a1da-c05a409257d4.png 611,305,742,419,1 251,440,364,560,1 180,211,301,322,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/eef2ac0b-42de-4bc3-a3c3-d5fcd597fbe4.png 687,325,808,452,4 1383,901,1509,1034,4 836,772,967,909,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/674b0fd3-f247-4b7f-97f7-3e6c57c9ba9e.png 875,588,1008,708,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6ba5d0b8-cdc7-4266-9d78-db76faa312e9.png 216,881,315,997,1 1435,923,1545,1043,1 1136,1083,1265,1185,1 874,475,990,599,6 555,71,672,191,4 69,308,190,443,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ef1419e0-3a3a-458a-b3b2-7efddac50404.png 424,939,555,1110,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f3bd0fcc-647d-4ca0-8c43-a16bd6ea3878.png 668,274,801,427,1 116,197,272,343,3 1325,344,1434,484,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/04fb49a2-07b8-4cdf-b6f7-df5c3688e5f8.png 1076,989,1192,1115,4 321,600,440,731,4 779,369,893,504,4 465,154,591,286,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/c0c3041f-78cd-46de-8e36-0a7dad0c04c4.png 535,441,692,582,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/a1669b59-fe09-4fe6-ba9f-06bec6725502.png 616,488,735,619,1 324,2,467,131,1 57,927,179,1079,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a824b499-3736-4581-bbdc-be1b3b4cf756.png 1205,836,1342,980,1 315,290,471,450,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/93f7e207-0d8e-47f8-8258-09a0e03dbdd6.png 775,372,932,525,1 353,650,458,781,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c4d34e35-4db2-41de-ba77-1a94aa9ef788.png 723,243,840,379,1 382,694,512,826,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f1872d08-f8a6-4b21-aa29-f56bbf607883.png 1253,946,1371,1080,4 371,443,501,566,3 116,84,255,194,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/14005767-9296-4b48-8a9d-bbe9b2040005.png 1282,374,1393,510,6 216,520,347,650,3 299,383,398,526,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/abf4cf2a-4532-4772-9f0f-9e123cc1713d.png 684,558,832,704,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/8ad7ba46-5db8-4ba9-b3e0-3cac52f7efc3.png 452,356,583,495,3 1247,804,1370,933,1 779,315,904,431,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4fac16e1-8e62-499b-a66b-c4c890372914.png 764,572,912,720,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/51f6463c-1622-4c0d-8482-b864e0ed2e74.jpg 701,1104,867,1251,1 838,815,1010,955,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/984caf56-f400-4a29-be97-a4d6b9d1468d.png 541,269,692,418,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/61575482-91e1-4db9-83c7-687b7ddbbfc4.png 241,693,367,827,1 1079,727,1203,854,1 1260,351,1378,492,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b87fb62d-2c36-4f68-aba9-37fcd7d46eef.png 644,516,766,629,1 1079,375,1200,514,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f1f9df6d-c4cb-4b42-9ca2-8fb47b1b0e91.png 1407,604,1534,791,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/e726dac6-f962-449c-acff-4dd56847b685.png 782,406,910,551,1 1322,973,1442,1087,1 1322,603,1534,744,1 357,325,475,458,1 809,777,935,875,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ec301f62-1302-4407-96f9-fcfe45c150ae.png 495,813,622,991,2 267,92,381,269,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b59dc3a0-3d54-4e3b-a485-33b3e43966de.png 387,307,512,519,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/07d15855-eb9b-46a9-b894-7cfe4d097826.png 119,570,249,705,4 1359,565,1486,689,3 532,608,663,730,1 127,917,237,1056,1 1181,207,1335,413,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/dbdfad64-110c-421f-a1c7-f68fd9e82d67.png 1084,1002,1195,1124,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/37e072a6-000d-4773-8d9f-d66b60ace668.png 1132,226,1291,341,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/edd09b2e-2673-4405-8ac0-e476e003e96a.png 837,1037,956,1170,2 429,27,583,204,2 832,381,941,520,3 706,847,857,993,1 1365,418,1519,599,1 646,937,792,1085,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/be6fe358-dee1-4dcf-9b0d-5d8612aba577.png 696,32,826,172,5 690,748,802,870,3 155,467,283,607,4 1324,133,1453,284,3 665,1030,808,1166,3 744,350,868,482,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/36569710-a574-40be-ad42-897a6e74a128.png 237,488,364,631,1 466,280,584,415,1 1166,73,1390,208,1 1093,661,1232,789,1 1020,866,1147,967,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a15e0fa8-2620-4f66-896e-175115c9dc3d.png 1211,1035,1310,1132,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e597f7ce-46c6-4dce-9063-50a2703fdd45.png 1361,368,1474,488,4 1104,514,1213,625,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/6f4ffe7b-395f-41ea-ad61-df5e0cbd531c.png 672,281,799,414,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/ad36bd67-594b-4f63-93e3-886af0bc618e.png 172,760,329,880,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/9842445c-5899-4189-9f2e-3a3a179fdad3.png 758,124,879,268,3 1276,983,1401,1108,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f68ae8e9-e760-4106-88e0-4bdef2785f06.png 330,261,470,401,1 104,573,252,680,1 222,417,331,562,1 560,214,687,366,1 1377,383,1482,509,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/2bed2796-75a9-4d93-bb2d-e3ccbe1a5cbe.png 789,460,912,604,1 183,736,276,830,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c4494d4f-732f-431a-8a9d-62403f0b74fe.png 1090,280,1211,392,4 1400,476,1541,596,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/fbc1f360-4382-48bb-a32e-3f5f2f9dbe57.png 786,74,911,209,1 998,947,1137,1063,6 1409,577,1577,729,1 1,725,131,843,4 252,367,376,483,4 242,462,363,560,4 186,947,342,1135,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8939e14b-fcdf-48b1-acb9-6514a2fc2fc0.png 1394,548,1500,651,3 761,453,890,579,1 1367,189,1496,307,1 21,561,176,701,1 931,622,1097,759,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4d0a1598-e4dd-45c4-8a90-dd7c780fe1da.png 843,851,960,965,1 942,211,1067,290,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/4767bfcc-fe87-4962-8c40-6ce8d9363cdf.png 1162,1019,1327,1151,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/e36cb882-c6d0-4467-812e-d18c169a9a47.png 215,782,328,906,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1345dc89-a3d9-4b71-8a75-b3bff01ba518.png 528,70,676,219,3 286,514,432,656,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/e640ae51-cbf1-4a84-b7cf-d38b17f59c2f.png 211,979,334,1097,1 1187,310,1333,434,1 1362,516,1480,692,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/b6573be3-9e04-49c3-9f48-6a145d065363.png 1366,979,1496,1103,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/036e008f-07a1-4e92-899d-1822dc390ccb.png 244,410,374,539,3 792,455,923,590,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/56a57a8d-c9b9-432a-a3b0-32a09355806c.png 178,466,318,612,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e02edd82-c424-4dee-98a7-575640655d9b.png 562,447,700,583,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/6b2ff7ca-c5b3-415c-9481-7b14efc6d7ef.png 714,221,842,420,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/b6364a57-72a9-43f3-8d02-9f53a992dc95.png 1238,400,1366,537,1 440,994,570,1111,1 48,159,183,288,1 1357,607,1514,721,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/1f8edb2a-40bc-4beb-aa6b-884d2473df0f.png 272,920,419,1078,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/8111cff9-4c04-448e-990b-9d5010f7be56.jpg 296,216,470,379,1 274,361,445,528,1 1528,280,1695,435,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/61dfc937-a428-44b4-94fb-d682bdb8dff0.png 455,595,575,725,1 835,847,950,974,6 132,180,247,323,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/4876c9d0-b386-48fb-84e8-91bf87529161.png 206,765,322,891,4 1013,875,1117,1019,1 701,157,796,308,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/dd7142e4-2d86-4170-a41f-e825743e8907.png 1292,97,1432,219,5 124,364,267,494,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/ff1b23d0-3cef-459b-b81f-39bfcdb6526f.png 334,675,459,802,1 424,38,549,162,1 241,1029,377,1161,1 518,121,729,227,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/56077789-8580-41b4-89d6-deea227e5c60.png 583,403,711,545,1 418,714,563,842,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8a4aadac-cf5c-4a79-b875-271b3fbfd230.png 770,314,927,434,6 159,447,300,580,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/bc832bde-d3ea-4a8e-be90-7a3329dcc314.png 694,797,824,965,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c3215597-a032-46be-9058-d6de1e5191d7.png 1258,865,1425,1020,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/883d9731-a04d-4f84-83c9-d3bef954759d.png 85,287,205,414,2 1196,855,1347,993,5 1380,801,1502,997,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/0154dd8e-72f8-4d78-a4dd-93e139577bd1.png 210,856,335,968,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/877d5e7f-19b6-40e7-81bd-c92f25e72503.png 663,774,814,939,1 532,258,673,428,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/a7c3c52f-3b40-4c92-a212-df9462cf25d8.png 1205,283,1303,378,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/a6fe423a-5204-4378-bcfa-d6d298a3e9aa.png 861,503,977,639,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/dedbb10c-43f1-45fb-bb40-3ce2fb874015.png 324,144,447,271,4 968,524,1083,638,4 1045,1008,1182,1133,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/255d5f0c-87fc-4337-bb51-07c440df4f1b.png 238,204,392,340,2 1297,744,1426,923,1 622,397,763,553,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/efb85f8e-c780-4a19-b6ce-555a154b0d10.jpg 1671,1104,1881,1264,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a74b6d6a-7e04-40ac-9292-d62f13f7ded3.png 287,774,402,896,6 563,802,692,910,3 1151,469,1245,654,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3cdcb09b-6a8c-43ca-b1d0-c1a289202f65.png 516,148,644,257,1 676,75,800,222,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f97c7c87-5e27-45ea-9f93-3285d74091de.png 673,536,797,662,4 295,485,415,598,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8e1e0fd3-52fb-4ebb-82de-67bbd66fcf4d.jpg 1594,1096,1725,1215,4 1176,896,1308,1035,4 1340,2,1502,133,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/6e39fb0a-aa41-4b16-b783-7589e97bf289.png 637,786,827,918,2 824,314,1010,461,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/d09eed76-e09b-4d90-b8f0-5a801beae41c.png 339,321,489,465,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/f20a4fcf-ea8e-4c14-883d-d26a9e08ce25.png 422,378,596,520,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/d1617cf7-eb56-42ee-85af-66c4748753c0.png 500,901,668,1059,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/3722d213-f2a9-46d5-aa76-9183b443e455.png 429,860,576,1007,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/27cdd837-e40f-491e-8adb-61e493189832.png 1254,688,1413,833,1 302,733,427,876,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/5f491efd-a21c-4a80-aaba-70b8876238ac.png 1390,715,1545,824,1 267,593,423,714,3 311,815,445,971,6 1303,1011,1456,1112,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/50715879-2300-4dba-8f4a-3314ff8cfcce.png 916,674,1045,796,1 531,988,663,1113,1 14,550,147,691,1 625,451,848,628,5 1439,300,1593,420,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/003a89b0-a095-417a-8dd6-f408339bbc68.png 469,238,631,408,2 929,790,1050,954,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f32b21ae-5ca7-490b-bc40-6db9396d933c.png 1250,511,1382,633,3 1352,913,1473,1037,3 70,824,195,956,1 1287,1042,1419,1167,1 1423,739,1547,857,6 1424,169,1550,296,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1574565f-f45b-4160-947e-25ce1a81aaca.png 791,144,928,290,1 572,747,766,962,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5a2447bf-a92b-4a47-a384-4b2ff020ecdc.jpg 744,305,876,430,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/587e5464-d70b-4279-8562-010279f6efbd.png 1406,423,1517,554,4 1273,365,1390,490,4 1019,837,1142,961,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b78ba2c8-ecb3-45b2-9cda-2c8088fa95d1.png 1426,220,1556,357,2 418,174,551,300,2 39,232,159,380,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/58594235-0d32-4a4e-91cd-4c800eaaaa73.png 830,571,964,686,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d8632217-ec33-4d0a-98e6-427824c58869.png 738,112,871,248,1 970,548,1112,681,1 23,95,152,242,1 131,165,288,281,1 172,342,299,442,1 524,394,641,582,1 968,546,1110,678,1 1342,165,1441,281,5 1439,190,1523,295,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/b62d47f9-2ff5-4902-abdc-b3610acfc7ba.png 698,916,827,1038,1 409,778,553,888,6 155,287,290,430,3 1338,204,1475,321,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0ab56f9a-846d-49e2-a617-c6cc477fdfad.png 818,481,1000,731,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c742ee2c-6814-46cd-af56-ae87bb9972f4.png 918,768,1026,872,1 589,625,732,764,5 1311,985,1429,1111,3 1417,570,1553,673,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9ecf2006-8d49-4ae8-a14b-ed8b3b14ee7c.png 875,629,1010,759,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/ac8df764-c8d8-4312-916d-70bfb37574b4.png 840,910,977,1045,6 1077,323,1211,454,6 374,24,490,163,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/76dbce7f-dc3e-4a29-b1fe-ab9dce583080.png 1288,797,1403,912,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/390ad256-e1ed-476a-9f14-2dc34e0da632.png 862,548,1006,667,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/63055d1b-5221-4c80-8b39-37ac069a1b5c.png 1013,191,1116,329,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/04c07425-57c7-415c-a0bc-36857bbd4049.png 1030,206,1137,308,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/a63ce82f-f3d1-4818-9035-d3d230e5f686.png 1000,37,1120,166,3 138,819,301,942,3 172,576,288,734,1 170,469,336,583,1 955,282,1086,434,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/883b726a-f61c-4382-9f1b-2fff302beba6.png 1177,901,1336,1048,2 219,181,347,310,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8757be1e-b832-407a-8e95-62abae485b24.png 469,252,579,352,5 1243,348,1353,457,5 861,587,998,713,4 1412,329,1557,469,4 20,501,195,698,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/de5d19b7-e670-4ac7-843b-7ce7bcebdf45.png 682,483,836,584,1 111,248,254,428,1 115,468,212,648,1 1318,75,1425,203,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/79b3a64f-2fb9-46e0-85d4-2bdd59c2075e.png 68,333,196,461,4 1408,332,1525,458,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/4ab47131-c2ac-461f-b95c-ac19ce24edbd.png 440,383,579,515,5 425,990,554,1130,1 1264,808,1409,941,1 109,338,225,468,1 723,548,851,732,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ac3358f1-ef9a-4ccc-b66c-da5e47e352e0.png 130,192,268,295,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/266180ed-77a3-4284-8292-50a49fc47fce.png 1293,84,1430,220,1 1055,487,1183,628,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3859deaf-6ae1-49a3-9051-898d0f0d7de6.png 759,625,892,794,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/52767904-4cdc-4821-ba68-8cd0c28f9023.png 872,233,1017,388,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3850f2a5-ab62-49d3-8135-68d60baa676b.png 342,554,487,710,3 1079,663,1242,813,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/040112be-3c8d-49aa-93f1-522f94a592ff.png 577,1055,693,1181,3 809,176,932,295,3 1353,257,1461,371,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/37a5a96b-f76e-4607-82fd-f47f7f2903c6.jpg 1121,898,1285,1080,1 1339,750,1513,921,1 107,359,279,506,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a27b451d-44a6-4740-861a-9e7e99915563.png 290,537,405,657,6 706,880,815,1019,1 589,1039,692,1198,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3612aa3b-2906-44a6-9c80-6144511a35ce.png 736,509,878,645,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/59dc7da9-35d1-421e-a61b-1e9637bfbfa1.png 928,626,1068,752,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5939f341-a886-4f63-ae87-2219d000a1d4.png 132,715,271,889,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/3e753a44-3264-438c-8389-a7822e4a84cc.png 894,169,1026,317,3 495,519,623,682,1 1146,939,1276,1104,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c35ee701-fde2-46b5-b178-1fe3f1ea7da2.png 742,763,852,873,1 1183,664,1284,765,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4c460388-e0c1-4970-8527-c9e5b42bea49.png 755,116,887,245,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/0864c569-2ad7-48ed-b12a-e40aa5b93756.jpg 573,317,750,482,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/393df10a-5d64-476b-88f5-14ac56d6ed60.png 716,409,817,532,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/49288109-80e9-4ec8-96d1-26a0166b8883.png 1163,863,1297,992,3 1283,979,1439,1101,3 128,417,283,523,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/be5bb7d0-7c3f-4bb9-8bb4-f8bc8d875943.png 879,988,1007,1129,1 51,966,180,1103,1 286,934,458,1061,1 1269,102,1387,299,1 891,306,997,535,1 208,682,376,811,1 317,718,433,873,1 1439,895,1595,1042,4 943,786,1065,972,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/50f2f514-6c8e-4c79-b3b3-0be56dd0b78b.png 807,594,942,715,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/71cf2467-77d3-4fac-ac6e-1d8767717c34.png 650,576,757,743,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c442e2d6-aaf9-417a-9905-4737a1115f33.png 290,226,406,370,1 360,867,473,1041,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6b8048ed-ebd7-4789-ba87-c1ba94801481.png 1042,262,1155,350,3 944,325,1046,422,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/a20d0b4b-6e2e-4507-bc22-f321dedc4ed9.png 320,249,436,386,1 805,780,952,900,1 1331,906,1477,1056,1 723,563,856,706,1 1417,1059,1522,1161,4 590,146,714,295,4 1228,465,1374,591,3 17,161,142,327,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a5c3b3f8-7ceb-4573-a400-a76b9479af46.png 360,435,498,574,1 1410,957,1542,1088,3 800,120,950,247,3 505,508,667,619,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/2196389c-45ec-46b5-bc6c-1f4a33df7f7c.png 823,410,974,562,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a2754679-68b0-40f4-be01-bafad5ac1261.png 1338,952,1465,1055,1 43,163,179,277,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b91b1641-ee06-44d8-94cc-24cdb583cc37.png 837,185,988,323,1 1243,609,1394,738,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9fd32265-07f2-442b-80b5-35069891d452.jpg 1069,33,1220,161,4 1212,1108,1371,1282,4 1340,1198,1494,1317,4 380,358,580,477,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/511b6e13-acd7-4dd3-b1d0-c4aa10a514c7.jpg 669,663,830,836,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/640c4a52-3742-4f57-aee3-9e3dc0887622.png 852,649,988,798,1 288,427,386,583,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/701206c5-aaac-4b99-9cc0-4a6854359457.png 85,265,226,403,3 1312,165,1442,339,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/67582df6-bf13-4c83-a531-1214692b70de.png 386,469,483,612,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/ef8fcfa4-8466-4186-8c69-f5f4904eb489.png 1328,205,1442,322,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/b234b6ea-b54d-470c-8461-ba7f4a024796.png 1043,458,1249,592,2 320,844,533,984,3 326,652,458,744,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/96957ec3-de17-41cf-855b-1388814e5918.jpg 580,74,736,238,6 756,934,914,1057,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/5e17f8e6-fd8d-426c-b444-1515d14f04b7.png 1188,990,1272,1092,1 50,665,178,786,1 1440,169,1575,311,1 133,844,258,957,1 1095,1019,1198,1116,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3dad6483-ac30-4d2b-b045-9f24fe6ff75e.png 367,652,489,764,4 1368,900,1490,1040,1 961,14,1087,137,1 1209,641,1353,763,1 958,1070,1079,1175,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/da111ca5-520f-4ea8-97ad-ae5fce58ee91.png 862,388,1061,578,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ca16a5ad-b106-4e84-8a43-178710e854ba.png 1190,696,1353,866,1 716,310,861,473,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/5c99cd97-39f6-4809-9528-9d380cc16b16.png 334,980,441,1088,5 878,153,1000,283,1 671,349,809,458,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9a1cd456-310c-47b6-a1f8-0fbd8e33d1fd.png 662,80,824,218,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/c415532c-4cce-4580-9fcd-623c172a1abd.png 727,482,859,607,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5f742392-278d-461c-a848-08def2c28878.png 177,893,299,1015,1 1194,199,1314,342,1 374,113,483,274,1 560,519,737,659,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/bdfbad30-fa2f-4285-bf02-6064ab6d869c.jpg 495,86,646,257,6 559,688,690,940,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/b9025f55-789d-4acb-9c0a-34e877c95c5c.jpg 865,1019,1017,1171,4 1346,440,1506,596,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b9de8b1a-f96a-4eb5-bc05-84ad43a054f3.png 578,307,692,446,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/109fbb82-bc3c-41ac-984d-e2da86202873.png 60,328,230,486,2 456,699,578,859,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/093a831a-bf71-4333-bc06-942ae70cb164.png 1125,265,1254,396,1 1332,471,1461,596,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4849866a-73a2-4fcf-a407-2d0a25a09a89.png 756,994,876,1124,1 978,647,1116,775,1 1275,389,1413,506,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/faead1c7-bb2c-4adf-bfce-9ff36cd2cf6a.png 714,911,845,1027,1 172,314,296,443,3 496,379,636,483,4 1378,391,1554,508,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/41ebf9a1-24dc-454e-8bf8-508218f5ee57.png 283,838,396,959,6 647,96,777,216,2 90,27,228,122,1 1251,1079,1378,1193,1 1402,925,1518,1086,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1f8f08ea-b5b3-4f68-94d4-3cc071b7dce8.png 151,700,242,782,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cf90d82f-2814-4fb7-a3ff-a86b7c5efca7.png 709,816,843,954,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1b814efc-7bf9-40ae-8e13-49dc2c04732f.jpg 361,31,525,187,1 707,697,855,852,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/45ac9409-5537-44ed-90cd-5c8a1ae0e1e0.png 784,626,935,770,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/98976666-9125-47fe-9601-43c41e58dfb4.png 576,648,717,821,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6e20a860-1f9a-4a74-b167-4c6a79bd8778.jpg 518,154,669,306,4 129,942,288,1091,4 302,645,452,786,4 828,1090,961,1215,4 602,365,736,495,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/2f68686f-1fe8-46e7-ad92-a08e3523ea79.png 283,584,408,703,1 1396,217,1515,345,1 505,932,632,1083,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/81edcae1-65bf-4752-b0e4-494376b71e49.png 595,293,729,403,1 1054,1045,1160,1157,1 938,195,1061,318,3 592,25,750,159,1 419,349,569,494,1 144,1100,260,1200,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f7a4334a-4332-4de8-b39b-22da907976f2.png 1090,764,1212,881,1 269,298,395,405,2 1111,892,1226,1019,1 441,564,563,682,3 106,648,230,752,1 1042,233,1163,388,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/eb86033f-4f1c-4e8c-ae84-e8e4c7e08626.png 1040,648,1157,770,1 335,824,481,970,1 317,665,458,785,1 1413,1053,1536,1174,1 383,319,531,449,1 75,312,218,462,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9cf3f75a-354c-46f9-8b53-0a9711ac8bee.jpg 832,921,970,1070,1 969,57,1132,232,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/5f300fd1-7eec-41ac-bbd1-0f4a943c757c.png 792,997,932,1133,3 118,111,274,245,1 956,206,1115,354,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/367663b2-5d09-4020-ab0a-c2200e7a1c8c.png 557,116,682,248,4 752,401,873,531,4 1298,931,1417,1048,4 379,917,489,1031,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/fb05b297-180a-4171-b633-09d5616d7534.png 298,407,421,547,1 1316,1005,1465,1127,1 321,854,424,993,1 738,1029,871,1146,1 1343,834,1463,986,1 1147,321,1260,438,1 1410,511,1521,631,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a7688988-2bcc-4458-83d3-5e482da5f87b.png 1147,255,1259,391,4 1261,939,1380,1083,4 126,87,247,207,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/e234ce8b-4ec4-4d93-9068-d7854d77ddf4.png 1305,108,1465,276,3 949,401,1093,569,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/030f3421-ed3f-4bf1-8f27-4d02590bffbc.png 1222,501,1355,619,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/770b8ca4-8377-479b-9ad5-5455ec3b44f8.png 1235,199,1390,326,1 403,356,553,521,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/5bf91ff9-80df-49c0-9c3e-599357d95530.png 17,26,129,171,3 843,593,976,753,1 1197,763,1317,932,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/64113b22-03b1-4ab8-89ab-b2f32154fbbd.png 1047,242,1169,345,5 1363,969,1502,1082,1 791,263,934,369,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e40000b4-1b26-42ce-909d-4715e04f0a6e.png 480,842,617,1018,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f0ee03d6-c57b-43a0-8812-359330bdb93a.jpg 337,994,537,1144,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5c68070c-3391-4db6-8c01-94175105dbea.png 437,596,575,734,6 39,771,156,1011,4 97,553,240,705,4 603,147,707,290,1 1414,326,1566,505,1 1346,335,1441,487,1 1052,929,1212,1070,4 897,861,1024,1070,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/027ab174-e47a-44f8-b85b-372449eeb7d8.png 210,181,350,338,3 1127,482,1244,638,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/91827f1a-9b04-4ef0-972c-12e90e60c516.png 141,518,292,678,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/7c1cd7c7-7452-4428-a98e-dd7675c8ddea.png 375,289,485,430,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/540a5fee-175b-4b92-bf62-1ea9b59c86c6.png 719,294,807,397,1 178,480,270,592,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9147a21d-0de2-4c04-88da-b788311696ac.png 721,688,861,823,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/a1265844-329c-4a49-a37f-e0541b83a50c.jpg 662,422,850,584,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/5397d8e2-bb09-42e7-9861-65ffad0fe94e.png 981,73,1109,204,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/5c399ab9-492c-4bfc-a452-83aba574a3bc.jpg 1070,638,1232,801,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cb08956d-dd6a-4e13-817b-40a0a93068f1.png 707,352,838,471,1 1329,145,1478,295,1 85,265,274,389,1 982,945,1142,1065,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c7a2d648-47cb-4b39-afa4-1b7fcfe51934.png 670,969,810,1103,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/4272cbd7-5b0a-4bf7-b690-dee1c128f07b.png 953,430,1107,544,3 260,643,397,776,3 606,938,723,1088,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/89b3d781-2f81-4d23-bed4-84da064df7f3.png 1416,728,1525,861,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b8339d7b-85ec-48d0-83e8-c8f831070459.png 822,343,936,472,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/25cfca07-2101-484f-b312-a927395f2651.png 957,782,1102,904,3 330,181,514,315,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/1c90231b-2830-42d9-884e-7301edb16933.png 712,107,855,232,1 13,351,146,501,1 1288,9,1417,179,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/56551792-4aa1-4301-9f8f-8bfebcd20050.png 292,302,411,456,2 1203,327,1322,494,2 456,400,576,554,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8d02117d-6c71-4e47-b50a-6cc8d5eb1d55.png 279,52,409,200,1 1037,441,1155,578,1 1273,1050,1454,1172,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9615ff33-b3fc-4d1e-9c05-0b8e3ef936df.png 867,740,987,880,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/a9feccda-18f2-405e-9aa1-409fa1f49fe4.png 233,837,358,961,4 924,50,1041,174,4 1155,298,1268,433,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/0dcca702-a4ef-4fb3-a940-9c0c140b21c7.png 237,194,356,317,1 53,578,178,713,1 1417,462,1535,612,1 409,791,560,946,1 1330,676,1461,826,1 783,546,885,661,1 1446,8,1581,227,1 441,988,565,1174,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/db7c5ec1-fefe-4e9d-83c1-da8fb982f1e2.png 957,333,1073,471,4 783,45,913,162,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/d3283f5b-3b3a-40ea-800b-79960ca851cb.png 734,591,848,729,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/adff6e1d-ba9d-4c7b-a8fe-1ec458eaeeb8.png 779,182,912,308,4 77,994,202,1121,2 882,1013,1011,1137,1 1012,31,1131,131,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/30ad83f1-a9b3-4a07-aea6-6c06b71e9ace.png 1180,969,1324,1102,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/6ad3efc9-4392-4cee-98a5-186564a96373.png 398,942,526,1069,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/93f40356-5676-45d3-8e83-8028708c93ba.png 132,645,257,770,6 590,718,724,876,1 1389,310,1525,428,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5893e081-04f2-4e33-9851-bed5f0e4d333.png 544,253,682,394,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/334bf865-e3fb-4200-bd53-d9ff5808ed9f.png 746,339,883,459,1 671,732,783,865,3 1354,132,1483,262,3 1175,996,1296,1134,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/07a80340-f65e-4f58-9317-94bb6ebd5a28.png 308,632,429,748,4 835,1029,949,1132,4 1011,229,1152,344,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f24c8fe0-a534-44cf-9995-b2b314d945ba.png 1079,965,1192,1101,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/089c9744-f906-41d8-908d-1e37919a8658.png 1381,373,1512,507,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/41be1bd3-0d31-4881-bf1f-3ccdfa21ff12.jpg 589,445,769,611,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/aa3ad405-828e-4986-8251-20fd981f34d3.png 847,868,974,988,4 626,1032,743,1156,3 776,640,910,764,3 1319,142,1455,278,1 364,175,503,306,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/76021d69-8919-4688-95ef-7418eff620cc.png 230,402,369,544,3 273,797,411,910,1 99,731,236,856,3 727,535,839,658,1 884,90,1004,245,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/505355c9-23bf-4f90-8ebc-6a7ef50964d0.png 1075,608,1193,726,4 700,572,817,695,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/18dbe7c4-89d2-42a6-a969-1e951ab313b1.png 1223,845,1336,969,4 364,592,476,711,4 97,271,218,388,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/be779f52-0bfa-4c01-a16f-b7f0bc92ed7c.png 1058,340,1178,534,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/64985a1e-16bb-4016-a01c-c21a5b86e572.jpg 499,591,669,744,4 299,1026,465,1184,4 489,180,668,313,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/81fed4a1-9d48-4938-90c9-c8bf3f5e6b1f.png 999,457,1113,573,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/24879caf-a327-464c-9cd9-e0f3d9161079.png 1138,770,1320,888,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/71204a6d-814e-44b6-9cee-7b979f478021.png 1052,176,1178,304,1 66,786,212,902,1 1176,274,1305,406,1 601,53,738,160,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f23ae29e-1bda-4784-b10c-d736757d39b8.png 935,790,1081,918,2 146,492,282,600,6 1395,461,1530,605,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/c7c1b873-0548-4a73-9618-f60912e164df.png 1207,802,1315,918,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/340a1727-0df7-4e6f-9c0e-9c5deddbfca2.png 995,773,1140,943,1 814,542,920,680,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3b13e20f-ec0d-44ec-b2f4-eaebfa09150e.png 24,255,162,394,6 714,358,847,468,1 93,882,249,988,1 1,1022,107,1101,1 1462,625,1600,764,1 893,351,1022,449,1 1054,265,1181,381,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/04a567df-5463-4043-81f1-d726223c19a9.png 232,434,361,561,6 1254,1032,1357,1163,1 619,176,712,318,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b338766f-19b9-4874-bcc5-ae22b3c533e6.png 666,50,797,170,1 323,633,465,768,6 284,523,416,650,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9e793460-d94c-47ac-b3a7-0d6ad86357da.png 751,697,879,842,2 224,777,355,949,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/e16c0dab-780d-4035-872e-1bb91e49f9d2.png 341,805,441,892,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/bca27923-b270-45df-a0bf-3e1a7d135b2c.png 543,421,709,578,5 224,424,411,615,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/34f334e6-a163-4af7-a1ed-51a7ef15934a.jpg 1137,870,1270,1024,4 874,243,1018,412,4 1703,578,1844,707,4 344,606,520,762,4 277,70,402,225,4 695,143,834,326,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/1f337b61-1b0d-4539-91f9-73d4a0798a4a.png 1398,385,1514,521,4 92,281,233,412,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e26b88c6-5884-4b5c-94d7-ad780379c8ad.jpg 615,927,765,1080,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/15a5849d-8bc7-4e01-938b-c1f55067787d.jpg 1692,1175,1868,1324,4 674,14,835,131,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/c691c8ef-d3c7-47b6-a941-f6a1089f21a9.png 710,961,826,1094,1 1249,953,1352,1091,3 262,275,369,379,1 73,567,211,730,3 632,691,750,897,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e93e617e-ed36-43d9-bd1a-4ffd2fba64e9.jpg 1021,982,1170,1117,4 250,217,396,356,4 578,398,724,526,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/67a4fb91-6f38-4ca2-8f20-6b2f5f1b29a7.png 123,519,251,633,1 859,454,985,583,1 234,718,350,846,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f77d7469-d083-4c2d-a4ea-5a9ff162e3e2.png 1366,375,1493,507,1 703,131,827,233,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/244ac6fa-8a92-4214-9cf4-ae0811d9ec7e.png 1257,802,1390,916,4 479,761,600,896,4 1141,438,1269,546,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/bdb5d571-27bc-4a42-ae45-aa5a9af40a81.png 408,789,573,910,1 265,252,419,393,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/291fe50c-2134-4708-bfa4-09b36ffea123.jpg 1578,240,1727,377,4 834,164,988,297,4 752,711,889,846,4 765,273,914,416,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/4372709c-f356-4906-be17-415384d916e8.png 331,549,450,688,1 237,861,364,987,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5f2b32bd-fdca-4d6f-b13a-ee9f83626c8d.png 1258,172,1391,296,1 1162,498,1293,612,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b4d22412-a495-43a9-bec0-73a2322f8dad.png 424,764,595,963,1 464,344,614,492,1 1005,603,1153,793,1 1228,186,1371,304,1 772,141,928,329,1 90,503,235,605,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/151f3af5-5e6e-4bcd-9389-4974fc68813e.png 100,937,259,1059,1 770,685,877,858,1 1487,1065,1587,1200,1 903,355,1033,473,1 280,238,447,338,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/8002cb71-0f25-4fa4-a46f-b49e5aeded0c.png 1154,141,1252,320,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/99d6a7e5-128e-4455-841d-8fbd1663905e.png 1185,472,1339,601,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/75579b27-8191-4044-859b-268be969c42b.png 1162,394,1346,525,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/d31dd2c0-ae8e-4499-86bb-7cabb6e438b9.png 333,537,483,684,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/58f7e1da-3478-48f4-958c-e9b1cb8696aa.png 114,325,245,452,1 684,630,798,765,4 359,653,487,780,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/42e87148-a015-4148-923a-fb83016f64e7.png 610,441,729,617,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/eb5f4f2f-2275-4a80-84a5-78a1eaf4ce4d.png 720,450,866,596,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/313ed8d9-3c00-4415-9de0-0eda07c60ad9.png 1047,752,1201,911,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/6dfafdf1-f588-4e80-8cf8-0126e1bf7af9.png 612,606,702,715,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/8e69098c-fae0-47a3-8833-c2bfdfb1a416.png 976,892,1140,1054,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/fc8df086-39e0-43f8-b0c7-2d23a349539b.png 940,368,1090,525,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7e837856-3519-4dc0-b357-4cdcfd30b4eb.png 597,478,701,585,4 1108,458,1280,548,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/eb0173a3-7e5e-4f53-8124-03d9d6317844.png 681,500,807,640,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/df49578a-60d4-4a3b-9ee0-79d9d59bc72a.png 185,487,326,630,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/d64cd75a-df26-44d5-ac25-69061a4e4d57.png 763,1028,888,1150,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/4184a235-d209-4151-86e9-6c77e7938dab.png 1072,480,1197,591,1 202,292,365,385,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/b318889c-3c60-477c-b8f6-d18cb01a59df.png 1178,723,1315,865,1 1308,156,1496,283,1 1394,979,1534,1120,1 324,222,512,324,1 376,360,535,474,1 909,641,1040,766,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/72088c26-d2dd-4906-b791-b8947fc7fbe4.png 1273,454,1460,654,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/bbecf1a8-a728-4c83-87f8-4dfbac0a1e03.png 1386,839,1512,954,5 434,952,573,1085,6 1432,714,1579,842,1 41,949,175,1108,1 1099,575,1253,702,1 559,677,687,820,4 922,738,1063,866,1 47,453,188,603,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c94a5851-b846-4fde-8c89-05bec3a8ac53.png 364,281,495,401,5 1038,548,1196,682,1 1042,678,1174,824,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/fa1f9f89-cecb-4972-842c-d14c632f89a9.png 245,562,369,703,1 1466,16,1600,183,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/361a3578-4cbb-422b-9e3c-b5e61395b12e.png 1008,555,1124,670,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/74261741-4d6e-4dba-8ad4-4fbdf919c30f.png 319,78,446,197,1 570,307,703,428,1 155,893,290,1008,1 456,1006,584,1143,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/7abc0d26-dd66-4ef4-8c4e-4a661e589a7f.png 445,177,570,317,1 157,560,272,681,4 1231,947,1351,1097,1 1032,436,1168,587,1 765,423,858,556,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a0eedcb9-b85c-4612-b945-7e8227f53c35.png 115,1036,244,1162,4 995,39,1109,164,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/2c03b3c9-7786-4e1b-ac2b-c98e9f8358f2.jpg 519,655,684,818,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d7581cb0-7a12-471d-a3d8-68dcea362213.png 1084,992,1204,1122,4 905,860,1035,970,6 87,233,210,363,1 573,188,696,317,6 1328,55,1454,208,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/78a5d1c3-44dd-44bc-ad5b-5e25bdcc4fae.png 1347,230,1499,323,1 570,1010,712,1129,1 1219,295,1380,411,1 1343,916,1549,1003,1 137,704,238,809,1 41,618,199,742,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/4fb83278-adc5-4424-9f45-b6d0db2955b6.png 487,604,574,692,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/dd60b6a7-c545-45b9-8250-d1633aa1ac75.png 276,369,446,504,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/6fb707b1-5c07-479f-8385-5404bf5747b0.png 506,231,616,412,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/caeb2d62-1166-43f0-8eac-5b8fc48f02eb.png 52,972,187,1094,1 827,926,951,1045,1 1393,277,1514,379,3 539,963,691,1081,3 628,742,752,879,1 669,644,829,775,1 1081,165,1237,281,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a3ada657-de00-44db-b1e2-54ba17e39983.png 777,739,917,886,2 275,196,434,341,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/db249e5a-4142-432c-8288-bacd10d7273d.png 989,1031,1129,1158,1 528,26,635,111,5 1038,618,1162,732,4 885,490,1061,580,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/584d62ed-4329-45dd-94ce-e929d8b2bb74.png 1115,52,1241,203,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/e02301ac-68f7-4daf-b2ba-254b917f1cca.jpg 1596,201,1892,390,1 439,1019,648,1152,6 596,1162,740,1324,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/2596eb32-1323-41e9-8c0f-64819abcfc73.png 1360,344,1483,485,1 1273,272,1414,391,1 1014,931,1146,1097,1 389,41,552,163,1 293,548,430,691,1 432,815,586,928,1 263,804,364,933,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/948c94ad-395c-41f4-9a68-8a1dcb76888c.png 510,1044,630,1173,4 1118,854,1242,974,4 253,104,358,220,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/1012abf2-cb05-4337-86c5-513ec4ca904d.png 1174,779,1299,906,4 587,262,717,394,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/97eff653-3908-4e66-931f-eab36bc336c8.png 1052,340,1176,506,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/85546330-4efd-43e2-87aa-d53a30220bfc.png 49,644,167,786,1 31,1077,156,1197,1 1353,432,1479,578,1 248,26,358,172,1 356,920,466,1051,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/ffb7be9a-65df-4f0b-99ae-cfd34e81cd34.png 821,464,951,626,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a5c8bf78-61e2-492d-bae5-0ffeea81212b.jpg 755,960,929,1123,1 1645,633,1809,768,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/7bcd3735-3134-46d1-8ca2-d4379f2d51c0.png 31,982,159,1101,3 1365,530,1483,664,1 1297,870,1416,1009,4 1109,792,1235,932,4 652,520,761,675,6 286,138,421,267,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/b5246b58-6f40-4c9e-8024-f49b0ed6bdbd.png 1318,723,1449,837,3 128,389,234,515,3 55,492,165,622,3 617,223,741,346,4 347,757,449,946,2 882,710,1021,890,1 759,523,916,643,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c3b07675-9d02-477c-91fe-f0737867049b.png 690,592,828,743,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/fd1c4c7a-24bc-43f2-b84f-fee182207aee.png 331,627,432,762,3 1266,490,1407,616,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e4827c85-311a-4df1-89c2-99dad0c3558c.png 250,734,354,847,5 290,41,417,168,1 412,286,535,406,1 422,709,601,875,3 687,834,827,1015,3 1081,857,1224,1006,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/56adbb1e-96a8-40a5-a5a2-243c97ea889b.png 684,140,799,272,1 1236,660,1373,786,3 795,122,892,244,1 279,133,370,224,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f91670db-be74-474c-bd72-68120aed4756.png 942,246,1067,359,4 540,886,662,1017,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/3eba916c-998b-40a7-993c-7ed916c2a04c.png 970,983,1065,1080,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6303f964-98ef-47c6-bb2d-283aa393f918.png 475,394,621,549,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/3a8f468f-f9de-46a8-a7c8-f2be239fa207.png 517,196,709,343,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/dc4270fb-e5c2-414f-96e9-6769ba1d77e4.png 112,307,234,444,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/cfab01d3-0616-4efb-9290-11f0fd8bf5a3.png 388,354,530,484,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/45f18ac0-f097-4b20-a99d-8837cf488822.png 430,122,573,255,1 886,335,1015,495,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/3abbc4d3-1d7e-40c9-9963-33732da7cc50.png 1139,514,1238,609,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/84d7545e-c3a8-4b1f-9a39-36aab78c8699.png 128,705,287,848,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/59542a24-b409-4c95-8608-d9691a741526.png 996,366,1112,503,1 1359,751,1478,896,1 21,56,160,206,1 99,903,232,1001,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e63e1607-f344-43d6-a0d8-e10cf2e5054a.png 824,563,954,684,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/f2574be3-81c6-4fc3-8a40-0230d1264f52.png 1245,831,1384,982,1 805,318,935,442,1 262,229,389,359,1 319,920,449,1057,1 1328,509,1480,684,1 1504,222,1600,356,1 96,625,233,746,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ec60ab26-3343-4c5f-9667-cdae999c7d86.png 99,663,236,791,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/dd944a6b-c1d3-4f9f-bbdc-3709707984f7.png 585,153,713,282,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/bcaefb02-682a-41b9-acc7-e6cc010f5b30.png 498,828,620,942,3 1226,371,1343,507,1 596,1045,732,1150,1 914,590,1069,743,1 1312,288,1462,428,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/78c35732-7e31-4153-842e-55ab1cd656f6.png 1368,381,1482,494,4 861,1021,970,1129,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/39cc33be-d752-40fe-b7a8-2e69a3517205.png 172,843,286,974,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/29d40b60-cde1-45b5-b403-692437a77ac1.png 795,414,958,544,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/19979a60-df80-4111-bf69-81a7e9c4dd0b.png 763,464,916,610,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/cc94eabb-a3dc-4cfc-9fff-55c76b5b4a71.png 772,1049,912,1184,1 1340,381,1481,501,6 85,10,219,143,3 1283,922,1414,1031,1 605,815,714,962,1 622,195,736,265,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/92e4fd7b-79ef-49c2-a52b-9ef13dd720ef.png 204,817,334,938,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/664c570b-4822-413c-9724-11b1d91fac44.png 462,525,586,663,1 1305,1022,1437,1160,5 1022,57,1133,184,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1fe1e118-adb8-4b10-a41e-1e5814e8f067.png 588,569,740,710,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ad8731b7-0dae-4983-9dc6-dec31767d761.png 317,520,446,644,3 298,669,429,801,1 1321,297,1437,422,4 399,320,524,433,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/34a70114-d3e3-4351-b8db-f6caab17e743.png 1335,614,1464,747,3 1039,72,1184,173,1 439,803,568,933,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/38c69905-8a4f-451a-8d0a-b855dc88dd16.png 343,114,456,251,1 556,704,677,835,1 525,850,662,978,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/887cc81a-bae3-4360-a115-23ae05ac3a4f.jpg 1725,1041,1880,1196,4 374,526,508,653,4 74,436,229,581,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/f939782b-f5a2-40a3-9c22-6c6d7e18edc3.png 1086,932,1198,1047,5 445,105,588,241,1 672,348,816,494,1 761,841,943,1018,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/31c749e8-18d1-4105-b7e6-8319cceddae0.png 535,384,680,511,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/3b5a8060-dec6-4a83-b7f2-b604e4e69dfc.png 537,240,644,322,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/9e74feb8-017d-4d53-8896-9ebda4327dd1.png 887,577,1009,698,4 587,51,703,168,4 1328,825,1446,956,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/c94827ce-d619-4705-a68a-df63a2c95ffa.png 969,406,1082,507,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/deaa1931-5f97-45bf-8c00-be6ddeb37b9a.png 1105,711,1225,844,1 972,761,1101,891,1 53,907,179,1004,1 176,195,292,315,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d6942996-5664-4370-ad87-2bdcbd49ac16.png 1372,991,1532,1097,4 979,262,1069,358,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/c1423156-82b3-4dd3-8e74-08eb7ed8e1d6.png 833,218,951,348,2 1108,548,1238,706,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/0a3b53c7-e7ab-4135-80aa-fd2079d727d6.jpg 1254,82,1417,227,1 419,987,547,1104,1 983,752,1102,867,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1dd3e6dd-343f-4cc9-b0ed-e4d27fb36f0a.png 731,604,902,737,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/5a539312-6cfa-43e6-8d5d-db883f343ad9.png 705,296,940,421,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/acdc6e12-73d9-44ba-be8c-2a56aaffef4f.png 1097,291,1246,423,2 493,190,636,388,2 1086,653,1190,818,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/03be08c8-2cf3-4de6-8ac6-5f7817a6a643.jpg 670,447,829,616,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/dcb21739-3c36-459d-b3cc-1be5871d6fe7.png 17,801,187,908,3 1220,960,1323,1082,3 107,187,226,304,1 553,220,686,372,3 1138,847,1247,1069,1 1391,811,1497,946,3 32,153,146,305,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/17ef5841-bd19-4610-ba47-7d321231847b.png 303,982,426,1130,1 990,50,1175,198,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/191071ab-6515-428c-9f05-8e4309542b75.png 147,54,275,185,1 588,228,707,367,1 426,396,540,537,1 1114,1034,1254,1170,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/01b38a56-13eb-447b-89ee-fc21cb40dcc1.png 807,1020,930,1137,1 1156,666,1286,798,1 9,811,143,934,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f05ffdca-dc3a-47bd-a231-2a0d9bd1d50e.png 532,962,687,1066,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/81af1442-d835-46bf-b80b-a898dba3da1b.png 941,172,1101,311,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/5955289d-19e5-45ef-a012-c8ea08ef45e2.png 896,950,1010,1080,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/c3631a04-b757-407b-8e7e-1ed3a6c463d4.jpg 1045,954,1208,1099,4 145,37,294,183,4 1207,984,1347,1129,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/3e764461-22ee-44d3-925d-cd658ff7d154.png 791,504,910,616,5 9,153,143,283,1 1166,642,1307,869,1 1454,248,1583,376,4 162,336,336,522,1 327,408,458,511,1 464,727,588,879,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/755e5bf8-e8e1-492b-a32f-f7d87cccaa40.png 783,663,922,810,2 896,326,1051,482,3 1081,878,1280,1013,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/6c3f81d7-5670-46bd-9eaa-9b426413abb7.png 714,890,848,1006,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cd2774a0-dab2-4d68-aae9-7568b9f3d2a6.png 1276,113,1480,227,1 916,539,1067,644,1 220,601,378,791,1 766,1047,873,1193,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0f0c949e-018a-4f3f-ab02-3704f49c7754.png 1256,925,1372,1062,4 1082,637,1215,754,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/2aeb7b85-7df9-4a63-8d37-2eecaaa190e7.png 892,56,1059,162,1 430,888,582,995,1 178,1054,315,1168,1 1005,672,1147,794,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/724e0c34-32cd-41f1-ae37-586038bc67ab.png 1309,693,1432,802,6 1460,198,1589,333,3 326,534,453,641,1 67,107,189,250,1 1185,359,1310,471,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/882b91b7-5906-4091-bad4-688d4375eeb5.png 1239,585,1384,707,1 1113,833,1245,949,1 300,77,431,223,1 472,668,627,793,1 702,881,824,1044,1 599,900,706,1078,1 86,678,254,851,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/010961af-b38c-49de-aca0-e3732d73d414.jpg 1567,472,1722,640,4 808,546,959,694,1 129,266,246,438,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/6fa2b30f-9b89-46ac-9b79-c0bc105d4271.png 1419,278,1517,369,5 739,276,868,387,5 1085,890,1254,1023,4 815,1042,937,1191,1 441,954,603,1087,1 254,772,377,911,1 229,0,370,145,1 764,8,933,116,1 1185,111,1309,284,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a777e78c-ad1f-4380-9ab2-b4f9f32b2d78.png 203,441,396,535,1 1084,0,1258,105,1 1061,86,1221,177,1 892,237,1057,385,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/766d5547-8dd2-4c8d-b78e-3007f83932e8.png 1007,965,1114,1111,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/177a3141-fa93-426a-9b52-7da71547ce44.png 898,822,1019,967,1 1410,565,1525,711,3 1277,687,1397,828,1 993,985,1101,1150,1 803,166,922,311,1 1170,130,1286,297,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/8f84a2c9-ca38-4405-a488-12fcd101278b.png 775,412,912,548,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/90171428-f208-428a-b40e-f57ee3bea457.png 814,1019,940,1155,1 980,295,1121,411,1 1159,552,1350,699,1 124,635,278,815,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c66a3e52-0f3f-4c81-bab9-0303499549f7.png 938,884,1047,1036,4 1401,950,1526,1084,1 159,93,264,258,2 544,809,662,957,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/0b04ec46-5119-4cda-8c35-c4e5b6f0eed0.png 841,461,971,574,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/5a631871-2fc7-4a68-9c39-f3b9a0bf4a04.png 206,101,331,227,1 293,201,387,329,1 528,900,687,1057,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d6352a03-ef81-421d-915e-226499555d20.png 843,541,1032,687,2 1161,591,1341,735,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/157ac97a-396e-4f6c-94c6-72a4d06ccc5f.png 840,510,1002,662,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/ae779806-6d01-4dc6-89df-294c368db6bc.png 1002,667,1139,835,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/cc882eae-a341-4783-bd19-8bdedf798538.png 437,1031,557,1144,4 351,122,466,248,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/1c406ce1-023b-47fc-a2cd-5ea2e255de65.png 761,249,941,371,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/d8f7e159-b7e3-49e4-86e8-aed8c5fbcd97.png 843,137,956,229,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/8ab5c462-045e-4b59-b53a-9b2bc3ed2487.png 566,947,694,1065,4 609,163,729,310,1 495,720,643,856,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/af2e63a3-9fde-46aa-a867-81c5c259d1dc.png 146,478,273,613,3 535,600,652,747,1 47,340,165,475,1 408,190,569,359,4 453,310,623,426,1 1213,464,1362,655,1 873,300,1016,473,1 952,860,1108,990,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4fc9a597-aaa8-43b0-ad1c-2eabbe442e84.png 93,827,247,986,1 218,385,335,514,1 397,218,553,335,1 782,165,909,304,1 1244,410,1369,533,1 1419,918,1512,1036,1 1487,118,1598,224,6 295,1047,417,1188,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0fcd1ebe-ee4a-40a0-b787-29cee18bfa1b.png 724,404,868,540,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a4409217-be11-4478-90a5-b406057d154d.png 1122,693,1205,794,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4411fea2-d785-4eeb-80c6-c739ab6114c4.png 231,729,388,860,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/66557580-fd38-4d4b-80d8-88611ecc78c6.png 151,317,265,519,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/a11ed7d0-12f6-468f-abad-5cba7d968123.png 699,404,828,539,1 697,316,779,404,5
+/storage/hpc/group/kazic-lab/NN/malaria/images/21a50e4c-b750-46b5-801f-5429ede7dea9.png 929,848,1079,991,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a6aa3b72-2970-4c78-b655-ea8dfe6e018c.png 364,768,492,945,1 814,50,945,267,2 1088,1020,1299,1149,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/68f34a9c-f73d-4238-8f55-4b05a8a2154c.png 1457,655,1576,760,1 1329,437,1462,585,3 538,770,664,874,1 1222,406,1359,555,1 841,1060,996,1181,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/a6526894-e290-482d-ac43-f1df34864817.png 628,530,760,683,1 1203,889,1327,1038,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/a054a8e2-55f2-4508-97df-207f76b89be2.png 498,775,626,901,1 706,341,839,473,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d532e31c-10ce-4313-9a36-bd5e01230254.png 322,738,438,875,4 1115,851,1252,985,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/0a7bfa8a-ee52-4f7a-b9c5-2919ecfa93ef.png 849,430,963,572,1 207,690,314,806,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/abb72ce2-4193-4dd3-a34c-61c2ee22ccff.jpg 553,760,721,867,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/58ced55c-bf0d-4204-b6b2-4f8992d92779.png 41,26,138,133,5 1102,932,1222,1072,1 1428,394,1534,537,1 170,995,269,1165,1 753,154,877,304,1 338,41,440,165,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/947348fe-4c70-468e-8009-3c14daeca69b.png 786,512,958,652,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/f07174a5-f799-4286-ac43-5b0f5c5777ac.png 340,379,458,492,4 768,173,872,297,3 120,280,240,403,4 753,292,908,430,1 1340,501,1456,611,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/9dc6ed5d-6698-48cf-aab3-fd156673729c.png 1273,741,1355,844,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4dcd5df9-c56c-471b-8d44-fa4b1ca9a600.jpg 152,865,281,1016,4 1346,820,1485,958,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/a7c91b63-b97c-4f4b-8d34-7ad2b08d7a17.png 731,637,834,762,4 179,979,297,1045,1 129,485,247,644,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c32b8bb8-c89d-4ae9-9c77-5b9356ca35a1.png 165,473,258,569,1 668,460,773,555,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/7fd2d254-b062-4f3d-8970-687e73c5a00a.png 663,464,793,617,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/99e979d4-ee97-4d7f-9da6-00bead40db4d.png 808,308,900,406,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/04de27ff-0d36-4da3-a829-e93851d76981.png 529,189,663,331,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/50d9fc90-8642-4bb6-91a7-0069a7e37392.png 1306,798,1436,922,6 1119,524,1258,647,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4ce5a070-9ede-4bb1-9ca2-1bae5746776b.png 1392,1040,1461,1106,5 799,486,928,619,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/07346d2e-a6e6-4dc0-95f1-9f7d8d7e3f66.png 784,469,954,613,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/5487faad-24a7-46b6-92d8-479d3a8d229f.png 253,848,369,963,4 664,61,786,191,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/1893e0c5-88e9-4644-bd59-3e47bc53a88c.png 265,925,381,1110,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/693da701-2020-404c-866d-b64c12da951d.jpg 250,804,402,966,1 593,745,724,884,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/56fbae44-4677-47f8-9c3a-22dac043c115.png 1009,622,1121,739,4 461,52,560,157,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/d67fb447-4dd7-4a82-a305-2b70927b69bb.png 900,402,1036,532,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/8e0dfc1f-e3eb-4a3f-a1c4-249bdfbfaa27.png 1422,138,1531,238,5 843,61,1018,181,1 605,689,732,784,5 125,682,236,818,1 32,283,168,412,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1e86933d-6a5a-4a3c-a0f2-ca22afd767b3.png 1286,455,1417,593,1 1397,124,1522,272,1 105,710,223,845,1 1229,975,1363,1140,1 1149,229,1249,394,1 85,68,223,285,1 100,548,231,680,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4903d9c7-de88-426a-b42d-a7e797e5ebcd.png 130,430,299,562,3 939,254,1131,430,3 1125,846,1264,1008,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e0e6b676-c39c-4542-8adf-de257a8e92e2.png 804,514,911,689,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/95bea542-6cd0-41c5-82c5-509af8c3b505.png 1476,57,1550,144,3 1130,340,1271,481,1 805,163,927,242,1 1017,200,1088,300,1 1002,354,1113,441,2 794,478,929,562,6 814,596,906,688,3 747,886,847,1006,6 836,1058,990,1160,2 272,690,422,810,2 356,1091,449,1200,2 1091,479,1149,607,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/02fb5e19-6f94-4787-bb78-e550a29a3cbd.png 155,863,305,1019,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/f2a8a483-b254-43aa-817f-7d525adb8911.png 518,214,649,357,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/216f9d43-6869-4ba1-9106-4f5ea6aac223.png 1163,899,1300,1005,6 50,1013,165,1146,1 529,850,652,978,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/bb137718-20ba-457d-8ffe-4f9420ecaab6.png 139,1000,268,1140,1 207,988,342,1109,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/0d7bf56f-3b5a-40bd-971c-2ca33dd89b2c.png 1048,992,1191,1151,4 1337,64,1472,175,1 552,177,700,287,1 783,54,905,177,1 377,986,597,1170,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d1b48634-9ad5-46e8-b816-42d1d97c93cd.png 245,951,360,1069,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/37b4142a-2c7d-400d-8f01-4e438845a484.jpg 226,790,396,953,1 927,306,1104,475,1 1393,108,1549,249,4 1044,220,1216,374,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f5869ba8-6253-426b-93f3-82af59a86144.png 1384,752,1511,874,1 199,52,322,202,1 727,1002,870,1108,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/c63f190a-e860-44fc-a2db-7980e1c80519.png 66,638,185,788,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/716273ea-19c4-49af-8604-df587b295eca.png 253,258,380,449,1 551,692,680,830,3 1330,320,1459,509,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/351d6536-3a5c-46eb-a6e4-d71dd999908a.jpg 352,965,512,1123,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/86495bbf-687b-429c-b9d3-6c2681ade7e2.png 1263,579,1391,702,1 311,453,462,628,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/dce55b59-c6c3-4693-aa75-6b348c8f52cd.png 818,354,948,473,4 1117,875,1237,1047,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/bf20d04d-ff8a-4910-91d7-94054c267d1b.png 75,861,203,1035,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/93b47b14-7f78-4b31-8897-d63a81fdab01.png 1035,585,1136,681,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e683144c-0465-43a2-86b1-3cf52599d5e0.png 1437,804,1522,907,5 86,785,199,921,1 109,39,227,190,1 214,310,376,411,1 856,800,1010,952,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/2c1eaf87-3fd3-4803-92b8-23bab40bf28c.png 1318,345,1502,522,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/1ecb0405-a6e9-4485-819e-2fbbf2b718aa.png 129,180,267,349,1 584,263,702,406,1 862,439,1003,603,1 1305,451,1476,627,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/036404d1-b9fc-497b-bbe1-f4d9c5ac3ce0.png 1363,496,1476,622,4 1159,871,1272,990,4 141,88,258,214,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/5ccca8ee-abea-458a-a891-bedd31c3ddc3.png 1305,592,1381,699,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/f7231477-f2c1-439a-9c8b-204de07686a4.png 783,626,962,766,2 519,643,661,797,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/d3dcdf92-9328-4796-adf4-918646877ba1.png 826,529,940,692,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f4c2b43f-a2e7-4746-8034-0b34aebba8ee.png 1230,1004,1358,1127,1 276,903,406,1029,1 160,362,281,481,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e11515b4-9527-4c23-a0ba-43719bacca0d.png 188,410,388,505,1 496,684,678,829,1 1369,537,1498,655,1 843,959,970,1074,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/64a678d4-9048-4491-90c7-1924f38be19a.png 318,569,464,743,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/91fd0c2e-8e9c-452d-97ab-304b05a049b3.jpg 1009,308,1127,458,4 652,831,774,981,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/533c47c9-02a6-419b-961b-81797f022f6c.png 791,1012,914,1133,1 1167,190,1283,326,1 478,542,598,664,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/dea9006d-c360-4118-b77b-8bc959fa5f8a.jpg 638,393,796,549,1 506,412,635,615,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f25a2ac8-cb6e-4e05-a0cd-cc00ac47718a.png 712,252,897,384,2 998,104,1183,283,2 382,1049,622,1155,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/555c6ea2-c76c-4e71-af57-855d940c2b37.png 626,227,768,358,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/8448ac8c-fa7a-475a-9ca2-dc0174f78a39.jpg 1701,559,1836,762,4 1514,453,1658,664,1 1059,493,1217,647,4 518,727,670,851,1 12,275,104,426,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/75660b56-51c2-45a9-9c15-e18d12a3af8c.png 574,1024,690,1152,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/397f37bc-a3a4-4257-9430-c8fc5716f8b1.png 1068,729,1214,880,3 513,281,634,407,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/71925778-a26e-483e-a07c-f3aaf740122a.png 1231,315,1358,397,1 1457,707,1580,931,1 863,811,1020,984,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3d1429ed-4619-41f7-8ff3-d698ad28034c.png 725,790,840,908,2 172,688,287,842,6 1480,849,1591,993,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/1b7f47fc-26cd-4273-b848-88a7cbfd9f85.png 851,905,1063,1022,1 284,956,436,1106,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/5e042380-6ef2-496f-8231-0ca550fbfa71.png 748,483,907,587,5 616,117,769,222,1 101,787,239,918,1 569,718,709,798,1 1022,630,1149,757,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/3d302619-473d-4c5b-af43-8833ff94233f.png 531,587,659,717,1 314,888,413,997,1 738,963,883,1100,1 1166,62,1305,269,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/a9159b11-ba49-4885-902e-00c8d5095b98.png 123,223,263,363,1 530,986,648,1114,1 776,627,877,766,1 1076,201,1196,353,1 1367,190,1500,349,1 1219,357,1392,513,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/f81806a8-5883-446c-be78-f0145b12dbdd.png 337,651,470,768,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/4da8f6c5-5f85-4280-92d0-1ba008e8c404.jpg 717,166,852,394,1 377,811,529,979,1 1059,336,1222,469,1 196,850,404,1039,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/05717db9-f1ef-4101-a9f7-7a007e83b1c9.png 390,901,505,1039,4 616,967,730,1108,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/fa4f8d1a-cb3a-4722-a566-6c7072f30606.png 1231,92,1363,225,1 1260,181,1431,311,1 1104,843,1299,927,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/51c6bc6b-4f37-4ce3-b624-840b27c1584a.jpg 612,1047,767,1208,1 1287,331,1432,510,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/2b369d75-9c55-43e0-b352-d981aea544e3.png 758,124,893,241,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/b4e5e08d-6427-46f3-aca8-a4df165a151d.png 1310,990,1435,1109,4 435,326,561,460,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/10891eed-b0f2-4dd0-90cb-da185f6761b2.png 591,966,721,1104,1 1419,558,1564,682,1 147,374,288,502,6
+/storage/hpc/group/kazic-lab/NN/malaria/images/8e22f8cc-b6ef-48cb-a06d-a44cb1fb5f2f.jpg 666,888,871,1046,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/9c4cb048-d64a-4b7f-84ff-ca28a8084fc7.png 649,459,816,598,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/b7d0ae11-a393-4aec-8f68-6ba07147f78a.png 1096,753,1219,913,1 945,535,1061,694,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/02ea7aa8-c142-4a3d-939f-e77689741341.png 431,70,590,218,2 1053,556,1219,715,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/07a96126-482e-4beb-b42a-0cb59e505372.png 358,223,488,354,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/1fdf99d1-a494-4174-bcd7-efbe457ab899.png 710,483,851,581,1 490,734,644,853,1 993,605,1140,717,1 24,34,192,218,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4d88e2d2-5aad-410c-9bbc-702ee9496995.png 1391,744,1528,899,2 109,452,209,627,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/259da25f-40f3-4d37-bca9-a9c807af1547.png 51,468,203,609,1 128,200,265,345,1 1339,858,1444,995,1 171,62,270,212,1 355,531,477,689,1 685,255,821,424,1 1095,254,1260,357,1 1123,687,1294,824,1 905,950,1031,1070,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/ebc4056e-d766-43cf-b6b4-5dac79d96e84.jpg 723,118,905,268,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/2240b991-48f6-4c59-9b62-5a8b5e541fae.png 1294,158,1428,276,1 1375,1020,1513,1155,1 250,7,368,132,4 552,41,638,190,1 1219,409,1343,541,1 678,605,809,700,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/e61e6af2-7f8b-47b0-bbe7-acb2ed0299ab.png 1479,948,1565,1047,5 45,588,199,712,1 143,637,293,762,1 717,370,839,490,1 1298,312,1454,518,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/53afd70c-08a7-4b9a-b137-7003b2ecbeab.png 952,835,1070,959,1 1013,711,1114,831,3
+/storage/hpc/group/kazic-lab/NN/malaria/images/79f63258-24ce-4e69-a5cb-8529635a89a9.png 340,329,461,445,4 798,954,919,1076,4 1335,106,1461,217,4
+/storage/hpc/group/kazic-lab/NN/malaria/images/6c20abb2-c4bb-4de0-8774-03f4d30ce93d.png 796,459,955,610,1
+/storage/hpc/group/kazic-lab/NN/malaria/images/4811fdf2-d7e8-475e-a840-45dda5282bf3.png 409,374,558,518,2
+/storage/hpc/group/kazic-lab/NN/malaria/images/c70894fa-50e8-4eed-a5a8-159a20153a49.jpg 255,821,418,972,4 680,127,824,319,1 88,378,249,590,1
